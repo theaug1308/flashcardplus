@@ -85,12 +85,18 @@
   const elThMeaning = $('#th-meaning');
 
   // ===== ANIMATION HELPER (flicker-free) =====
-  // Alternate between two identical animation names so the browser
-  // always sees a new animation name and restarts without reflow.
+  // Alternate between two animation names so the browser always sees a *new*
+  // animation and restarts it without reflow.
+  // IMPORTANT: remove the class on animationend so the fill:both
+  // transform:translateY(0) does NOT stay in the cascade and block the flip.
   function triggerCardAnim(el) {
     animTick = !animTick;
+    const cls = animTick ? 'card-anim-a' : 'card-anim-b';
     el.classList.remove('card-anim-a', 'card-anim-b');
-    el.classList.add(animTick ? 'card-anim-a' : 'card-anim-b');
+    el.classList.add(cls);
+    el.addEventListener('animationend', () => {
+      el.classList.remove('card-anim-a', 'card-anim-b');
+    }, { once: true });
   }
 
   // ===== LOAD DATA =====
@@ -360,6 +366,8 @@
 
   function flipCard() {
     if (filteredWords.length === 0) return;
+    // Remove animation class first — its fill:both transform overrides .flipped
+    elFlashcard.classList.remove('card-anim-a', 'card-anim-b');
     isFlipped = !isFlipped;
     elFlashcard.classList.toggle('flipped', isFlipped);
   }
