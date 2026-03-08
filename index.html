@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Flashcard học từ vựng tiếng Anh nhanh - 650 từ vựng với chế độ lật thẻ và đọc lướt tự động">
+    <title>Flashcard Từ Vựng | Học Nhanh 650 Từ</title>
+    <!-- Phosphor Icons — free, professional icon pack -->
+    <script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="app" id="app">
+        <!-- Header -->
+        <header class="header">
+            <h1><i class="ph ph-lightning"></i> Flashcard Từ Vựng</h1>
+            <p class="subtitle">Ghi nhớ nhanh • Lặp lại liên tục • 650 từ</p>
+        </header>
+
+        <!-- Stats -->
+        <div class="stats-bar">
+            <div class="stat-item total">
+                <span class="dot"></span>
+                <span>Tổng: <span class="num" id="stat-total">0</span></span>
+            </div>
+            <div class="stat-item known">
+                <span class="dot"></span>
+                <span>Nhớ: <span class="num" id="stat-known">0</span></span>
+            </div>
+            <div class="stat-item unknown">
+                <span class="dot"></span>
+                <span>Chưa: <span class="num" id="stat-unknown">0</span></span>
+            </div>
+            <div class="divider"></div>
+            <div class="progress-wrap">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mode Tabs -->
+        <div class="mode-tabs">
+            <button class="mode-tab active" data-mode="flashcard" id="tab-flashcard">
+                <i class="ph ph-stack"></i> Lật thẻ
+            </button>
+            <button class="mode-tab" data-mode="auto" id="tab-auto">
+                <i class="ph ph-repeat"></i> Đọc lướt
+            </button>
+            <button class="mode-tab" data-mode="list" id="tab-list">
+                <i class="ph ph-list-bullets"></i> Danh sách
+            </button>
+        </div>
+
+        <!-- Toolbar -->
+        <div class="toolbar">
+            <div class="search-box">
+                <i class="ph ph-magnifying-glass search-icon"></i>
+                <input type="text" id="search-input" placeholder="Tìm từ vựng..." autocomplete="off">
+            </div>
+            <select class="filter-select" id="filter-select">
+                <option value="all">Tất cả</option>
+                <option value="unknown">Chưa nhớ</option>
+                <option value="known">Đã nhớ</option>
+            </select>
+            <button class="btn-shuffle" id="btn-shuffle">
+                <i class="ph ph-shuffle"></i> Trộn
+            </button>
+        </div>
+
+        <!-- ===== FLASHCARD MODE ===== -->
+        <div class="flashcard-panel active" id="flashcard-panel">
+            <!-- Card -->
+            <div class="card-container" id="card-container">
+                <div class="flashcard" id="flashcard">
+                    <!-- Front -->
+                    <div class="card-face card-front">
+                        <span class="card-number" id="card-number">#1</span>
+                        <div class="word" id="card-word">Loading...</div>
+                        <span class="hint-text"><i class="ph ph-arrows-clockwise"></i> Nhấn để lật</span>
+                    </div>
+                    <!-- Back -->
+                    <div class="card-face card-back">
+                        <div class="back-word" id="back-word"></div>
+                        <div class="definition" id="card-definition"></div>
+                        <div class="vietnamese" id="card-vietnamese"></div>
+                        <div class="example" id="card-example"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Navigation -->
+            <div class="nav-controls">
+                <button class="btn-nav" id="btn-prev" title="Từ trước (←)"><i class="ph ph-caret-left"></i></button>
+                <span class="card-position">
+                    <span class="current" id="pos-current">1</span> / <span id="pos-total">0</span>
+                </span>
+                <button class="btn-nav" id="btn-next" title="Từ tiếp (→)"><i class="ph ph-caret-right"></i></button>
+            </div>
+
+            <!-- Memory Buttons -->
+            <div class="memory-buttons">
+                <button class="btn-memory btn-forgot" id="btn-forgot" title="Chưa nhớ (R)">
+                    <i class="ph ph-x-circle"></i> Chưa nhớ <span class="key">R</span>
+                </button>
+                <button class="btn-memory btn-knew" id="btn-knew" title="Đã nhớ (G)">
+                    <i class="ph ph-check-circle"></i> Đã nhớ <span class="key">G</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- ===== AUTO-SCROLL MODE ===== -->
+        <div class="auto-panel" id="auto-panel">
+            <!-- Auto controls -->
+            <div class="auto-controls">
+                <button class="btn-play" id="btn-play" title="Play/Pause (Space)"><i class="ph ph-play"
+                        id="play-icon"></i></button>
+                <div class="speed-control">
+                    <label>Tốc độ:</label>
+                    <div class="speed-buttons" id="speed-buttons">
+                        <button class="speed-btn" data-speed="2000">2s</button>
+                        <button class="speed-btn active" data-speed="3000">3s</button>
+                        <button class="speed-btn" data-speed="5000">5s</button>
+                        <button class="speed-btn" data-speed="8000">8s</button>
+                    </div>
+                </div>
+                <div class="auto-show-toggle">
+                    <input type="checkbox" id="auto-show-meaning" checked>
+                    <label for="auto-show-meaning">Hiện nghĩa</label>
+                </div>
+            </div>
+
+            <!-- Auto Card -->
+            <div class="auto-card" id="auto-card">
+                <span class="card-number" id="auto-card-number">#1</span>
+                <div class="auto-word" id="auto-word">Nhấn Play</div>
+                <div class="auto-details hidden" id="auto-details">
+                    <div class="auto-definition" id="auto-definition"></div>
+                    <div class="auto-vietnamese" id="auto-vietnamese"></div>
+                    <div class="auto-example" id="auto-example"></div>
+                </div>
+                <div class="timer-bar">
+                    <div class="timer-fill" id="timer-fill"></div>
+                </div>
+            </div>
+
+            <!-- Nav for auto mode -->
+            <div class="nav-controls">
+                <button class="btn-nav" id="auto-btn-prev"><i class="ph ph-caret-left"></i></button>
+                <span class="card-position">
+                    <span class="current" id="auto-pos-current">1</span> / <span id="auto-pos-total">0</span>
+                </span>
+                <button class="btn-nav" id="auto-btn-next"><i class="ph ph-caret-right"></i></button>
+            </div>
+
+            <!-- Memory Buttons -->
+            <div class="memory-buttons">
+                <button class="btn-memory btn-forgot" id="auto-btn-forgot">
+                    <i class="ph ph-x-circle"></i> Chưa nhớ <span class="key">R</span>
+                </button>
+                <button class="btn-memory btn-knew" id="auto-btn-knew">
+                    <i class="ph ph-check-circle"></i> Đã nhớ <span class="key">G</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- ===== LIST PANEL ===== -->
+        <div class="list-panel" id="list-panel">
+            <div class="list-toolbar">
+                <div class="lang-toggle">
+                    <button class="lang-btn active" id="lang-btn-vn">VN</button>
+                    <button class="lang-btn" id="lang-btn-en">EN</button>
+                </div>
+                <span class="list-count" id="list-count"></span>
+            </div>
+            <div class="vocab-table-wrap" id="vocab-table-wrap">
+                <table class="vocab-table">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Từ vựng</th>
+                            <th id="th-meaning">Nghĩa</th>
+                            <th>Trạng thái</th>
+                        </tr>
+                    </thead>
+                    <tbody id="vocab-tbody">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Keyboard Hints -->
+        <div class="keyboard-hints">
+            <div class="key-hint"><kbd>Space</kbd> Lật/Play</div>
+            <div class="key-hint"><kbd>←</kbd><kbd>→</kbd> Điều hướng</div>
+            <div class="key-hint"><kbd>G</kbd> Nhớ</div>
+            <div class="key-hint"><kbd>R</kbd> Chưa nhớ</div>
+            <div class="key-hint"><kbd>S</kbd> Trộn</div>
+            <div class="key-hint"><kbd>L</kbd> Danh sách</div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

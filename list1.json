@@ -1,0 +1,4552 @@
+[
+    {
+        "id": 1,
+        "word": "Illusory",
+        "definition": "Based on illusion; not real or true; deceptive.",
+        "vietnamese": "Ảo tưởng; không có thật; lừa dối",
+        "example": "The oasis in the desert turned out to be illusory, disappearing as they approached."
+    },
+    {
+        "id": 2,
+        "word": "Imposing",
+        "definition": "Grand and impressive in appearance.",
+        "vietnamese": "Uy nghi; hoành tráng; gây ấn tượng mạnh",
+        "example": "The imposing cathedral dominated the city skyline for miles around."
+    },
+    {
+        "id": 3,
+        "word": "Ingenious",
+        "definition": "Clever, original, and inventive.",
+        "vietnamese": "Khéo léo; độc đáo; sáng tạo",
+        "example": "She came up with an ingenious solution to the engineering problem."
+    },
+    {
+        "id": 4,
+        "word": "Meticulous",
+        "definition": "Showing great attention to detail; very careful and precise.",
+        "vietnamese": "Tỉ mỉ; cẩn thận; chính xác từng chi tiết",
+        "example": "The surgeon was meticulous in every step of the delicate procedure."
+    },
+    {
+        "id": 5,
+        "word": "Pristine",
+        "definition": "In its original condition; unspoiled or clean.",
+        "vietnamese": "Nguyên vẹn; tinh khiết; chưa bị ô nhiễm",
+        "example": "The national park preserved the pristine wilderness from development."
+    },
+    {
+        "id": 6,
+        "word": "Affecting",
+        "definition": "Causing emotion or touching the feelings.",
+        "vietnamese": "Gây xúc động; chạm đến cảm xúc",
+        "example": "The documentary told an affecting story about refugees seeking a new home."
+    },
+    {
+        "id": 7,
+        "word": "Engender",
+        "definition": "To cause or give rise to (a feeling, situation, or condition).",
+        "vietnamese": "Gây ra; tạo nên (cảm xúc, tình huống)",
+        "example": "Years of unfair treatment engendered deep resentment among the workers."
+    },
+    {
+        "id": 8,
+        "word": "Constrict",
+        "definition": "To make narrower, tighter, or smaller.",
+        "vietnamese": "Thu hẹp; siết chặt; làm nhỏ lại",
+        "example": "Tight regulations constricted the company's ability to expand overseas."
+    },
+    {
+        "id": 9,
+        "word": "Honor",
+        "definition": "High respect; to regard with great respect and esteem.",
+        "vietnamese": "Danh dự; tôn kính; trọng vọng",
+        "example": "The community gathered to honor the teacher who had inspired generations of students."
+    },
+    {
+        "id": 10,
+        "word": "Repudiate",
+        "definition": "To reject or refuse to accept.",
+        "vietnamese": "Bác bỏ; từ chối chấp nhận; phủ nhận",
+        "example": "The scientist repudiated the claims made in the flawed research paper."
+    },
+    {
+        "id": 11,
+        "word": "Pervasive",
+        "definition": "Spreading widely throughout an area or group of people.",
+        "vietnamese": "Lan rộng; phổ biến khắp nơi",
+        "example": "The smell of fresh bread was pervasive throughout the entire bakery."
+    },
+    {
+        "id": 12,
+        "word": "Credible",
+        "definition": "Believable or convincing.",
+        "vietnamese": "Đáng tin; thuyết phục",
+        "example": "The witness provided a credible account of the events that took place."
+    },
+    {
+        "id": 13,
+        "word": "Assertive",
+        "definition": "Confident and forceful in expressing opinions or desires.",
+        "vietnamese": "Quyết đoán; tự tin; dứt khoát khi bày tỏ ý kiến",
+        "example": "Being assertive in negotiations helped her secure a better contract."
+    },
+    {
+        "id": 14,
+        "word": "Profound",
+        "definition": "Very great or intense; showing deep insight.",
+        "vietnamese": "Sâu sắc; thâm thúy; có tầm nhìn sâu xa",
+        "example": "Reading that book had a profound effect on his understanding of human nature."
+    },
+    {
+        "id": 15,
+        "word": "Anticipate",
+        "definition": "To expect or look forward to something.",
+        "vietnamese": "Mong đợi; dự đoán trước; kỳ vọng",
+        "example": "Scientists anticipate that temperatures will rise significantly over the next decade."
+    },
+    {
+        "id": 16,
+        "word": "Withdraw",
+        "definition": "To remove or take away; to retreat or pull back.",
+        "vietnamese": "Rút lui; lấy lại; thu hồi",
+        "example": "The company decided to withdraw its product from the market after safety concerns arose."
+    },
+    {
+        "id": 17,
+        "word": "Steer",
+        "definition": "To guide or control the direction of something.",
+        "vietnamese": "Điều hướng; dẫn dắt; kiểm soát hướng đi",
+        "example": "The manager steered the team toward a more efficient workflow."
+    },
+    {
+        "id": 18,
+        "word": "Controversy",
+        "definition": "Public disagreement or heated discussion within a topic or field.",
+        "vietnamese": "Tranh cãi; gây tranh luận sôi nổi",
+        "example": "The new policy sparked controversy among educators and parents alike."
+    },
+    {
+        "id": 19,
+        "word": "Exposure",
+        "definition": "The state of being introduced to or affected by something.",
+        "vietnamese": "Sự tiếp xúc; phơi bày; trải nghiệm với điều gì đó",
+        "example": "Early exposure to music can enhance a child's cognitive development."
+    },
+    {
+        "id": 20,
+        "word": "Dependence",
+        "definition": "Reliance on or need for something or someone.",
+        "vietnamese": "Sự phụ thuộc; lệ thuộc vào điều gì/ai đó",
+        "example": "The country's dependence on oil imports made its economy vulnerable."
+    },
+    {
+        "id": 21,
+        "word": "Advancement",
+        "definition": "Progress or development in a particular area.",
+        "vietnamese": "Sự tiến bộ; phát triển trong một lĩnh vực",
+        "example": "Advancements in medical technology have saved millions of lives."
+    },
+    {
+        "id": 22,
+        "word": "Prolong",
+        "definition": "To extend the duration of something.",
+        "vietnamese": "Kéo dài; gia hạn thêm",
+        "example": "The doctors did everything possible to prolong the patient's life."
+    },
+    {
+        "id": 23,
+        "word": "Counteract",
+        "definition": "To act against or neutralize the effect of something.",
+        "vietnamese": "Chống lại; vô hiệu hóa tác dụng của điều gì đó",
+        "example": "Exercise can counteract the negative effects of a sedentary lifestyle."
+    },
+    {
+        "id": 24,
+        "word": "Trigger",
+        "definition": "To cause something to start or happen.",
+        "vietnamese": "Kích hoạt; gây ra; châm ngòi cho điều gì đó",
+        "example": "Loud noises can trigger anxiety in some people with PTSD."
+    },
+    {
+        "id": 25,
+        "word": "Soothe",
+        "definition": "To calm or relieve pain or distress.",
+        "vietnamese": "Xoa dịu; làm dịu cơn đau hoặc căng thẳng",
+        "example": "She sang softly to soothe the crying baby."
+    },
+    {
+        "id": 26,
+        "word": "Indifferent",
+        "definition": "Having no particular interest or sympathy; unconcerned.",
+        "vietnamese": "Thờ ơ; không quan tâm; bàng quan",
+        "example": "He was indifferent to the outcome of the vote since it did not affect him."
+    },
+    {
+        "id": 27,
+        "word": "Revolted",
+        "definition": "Disgusted or shocked by something.",
+        "vietnamese": "Kinh tởm; ghê tởm; bị sốc bởi điều gì đó",
+        "example": "She was revolted by the unsanitary conditions in the facility."
+    },
+    {
+        "id": 28,
+        "word": "Superior",
+        "definition": "Higher in rank, status, or quality.",
+        "vietnamese": "Vượt trội; cao cấp hơn; ưu việt hơn",
+        "example": "This fabric is superior to the cheaper alternatives in terms of durability."
+    },
+    {
+        "id": 29,
+        "word": "Fusion",
+        "definition": "The process or result of joining two or more things together.",
+        "vietnamese": "Sự hợp nhất; kết hợp hai hay nhiều thứ lại",
+        "example": "The restaurant's menu was a creative fusion of Asian and Mediterranean cuisines."
+    },
+    {
+        "id": 30,
+        "word": "Dismissal",
+        "definition": "The act of sending someone away or rejecting something.",
+        "vietnamese": "Sự sa thải; bác bỏ; gạt đi",
+        "example": "Her dismissal of his concerns made him feel unheard and frustrated."
+    },
+    {
+        "id": 31,
+        "word": "Critique",
+        "definition": "A detailed analysis and assessment.",
+        "vietnamese": "Phê bình; phân tích và đánh giá chi tiết",
+        "example": "The professor offered a thorough critique of the student's essay."
+    },
+    {
+        "id": 32,
+        "word": "Simplification",
+        "definition": "The process of making something simpler or easier to understand.",
+        "vietnamese": "Sự đơn giản hóa; làm cho dễ hiểu hơn",
+        "example": "The teacher's simplification of the complex theory helped students grasp it quickly."
+    },
+    {
+        "id": 33,
+        "word": "Restate",
+        "definition": "To say something again or differently.",
+        "vietnamese": "Phát biểu lại; diễn đạt lại theo cách khác",
+        "example": "He restated his argument using simpler language for the audience."
+    },
+    {
+        "id": 34,
+        "word": "Detect",
+        "definition": "To discover or identify the presence of something.",
+        "vietnamese": "Phát hiện; nhận ra; phát giác",
+        "example": "Scientists used advanced equipment to detect traces of water on Mars."
+    },
+    {
+        "id": 35,
+        "word": "Enroll",
+        "definition": "To officially register as a member or participant.",
+        "vietnamese": "Ghi danh; đăng ký tham gia chính thức",
+        "example": "She decided to enroll in a night class to improve her coding skills."
+    },
+    {
+        "id": 36,
+        "word": "Value",
+        "definition": "The importance, worth, or usefulness of something.",
+        "vietnamese": "Giá trị; tầm quan trọng; sự hữu ích",
+        "example": "She placed great value on honesty in all her relationships."
+    },
+    {
+        "id": 37,
+        "word": "Disregard",
+        "definition": "To pay no attention to; ignore.",
+        "vietnamese": "Bỏ qua; phớt lờ; không chú ý đến",
+        "example": "The driver disregarded the warning signs and continued down the flooded road."
+    },
+    {
+        "id": 38,
+        "word": "Display",
+        "definition": "To show or exhibit.",
+        "vietnamese": "Trưng bày; thể hiện; phô bày",
+        "example": "The museum displayed rare artifacts from ancient civilizations."
+    },
+    {
+        "id": 39,
+        "word": "Irrelevant",
+        "definition": "Not related or applicable to something.",
+        "vietnamese": "Không liên quan; không áp dụng được vào vấn đề",
+        "example": "His comment about the weather was completely irrelevant to the business discussion."
+    },
+    {
+        "id": 40,
+        "word": "Prohibitive",
+        "definition": "Serving to forbid or prevent something by making it difficult or costly.",
+        "vietnamese": "Mang tính cấm đoán; quá đắt hoặc khó để thực hiện",
+        "example": "The prohibitive cost of housing in the city forced many families to move away."
+    },
+    {
+        "id": 41,
+        "word": "Distinctive",
+        "definition": "Characteristic of and unique to something.",
+        "vietnamese": "Đặc trưng; độc đáo; mang tính riêng biệt",
+        "example": "Her distinctive voice made her instantly recognizable on the radio."
+    },
+    {
+        "id": 42,
+        "word": "Constrain",
+        "definition": "To limit or restrict.",
+        "vietnamese": "Hạn chế; ràng buộc; giới hạn",
+        "example": "Budget constraints forced the team to abandon several promising projects."
+    },
+    {
+        "id": 43,
+        "word": "Undermine",
+        "definition": "To weaken or damage gradually or insidiously.",
+        "vietnamese": "Phá hoại ngầm; làm suy yếu dần dần",
+        "example": "Constant criticism can undermine a child's self-confidence."
+    },
+    {
+        "id": 44,
+        "word": "Captivated",
+        "definition": "Strongly attracted or fascinated by something.",
+        "vietnamese": "Bị thu hút mạnh; bị mê hoặc; bị cuốn hút",
+        "example": "The audience was captivated by the magician's breathtaking performance."
+    },
+    {
+        "id": 45,
+        "word": "Predictable",
+        "definition": "Able to be foreseen or expected.",
+        "vietnamese": "Có thể đoán trước; theo quy luật dự đoán được",
+        "example": "The movie's ending was so predictable that most viewers guessed it early on."
+    },
+    {
+        "id": 46,
+        "word": "Timeworn",
+        "definition": "Damaged or impaired by age or use; old-fashioned.",
+        "vietnamese": "Cũ kỹ; lỗi thời; bị mài mòn theo thời gian",
+        "example": "The timeworn proverb still holds truth in the modern world."
+    },
+    {
+        "id": 47,
+        "word": "Accentuate",
+        "definition": "To make something more noticeable or prominent.",
+        "vietnamese": "Làm nổi bật; nhấn mạnh; tô đậm thêm",
+        "example": "The lighting in the gallery was designed to accentuate the textures of each painting."
+    },
+    {
+        "id": 48,
+        "word": "Rectify",
+        "definition": "To correct or put right.",
+        "vietnamese": "Sửa chữa; khắc phục; điều chỉnh cho đúng",
+        "example": "The company took steps to rectify the billing errors that had affected customers."
+    },
+    {
+        "id": 49,
+        "word": "Obscure",
+        "definition": "Not well known; unclear or difficult to understand.",
+        "vietnamese": "Tối nghĩa; ít được biết đến; khó hiểu",
+        "example": "The professor specialized in obscure medieval manuscripts few had ever read."
+    },
+    {
+        "id": 50,
+        "word": "Nebulous",
+        "definition": "Vague, unclear, or ill-defined.",
+        "vietnamese": "Mờ nhạt; mơ hồ; không rõ ràng",
+        "example": "His plan for the future remained nebulous, lacking any concrete details."
+    },
+    {
+        "id": 51,
+        "word": "Unprecedented",
+        "definition": "Never done or known before; without previous example.",
+        "vietnamese": "Chưa từng có; chưa có tiền lệ",
+        "example": "The pandemic caused unprecedented disruption to global supply chains."
+    },
+    {
+        "id": 52,
+        "word": "Concrete",
+        "definition": "Existing in a real, tangible form; specific and definite.",
+        "vietnamese": "Cụ thể; rõ ràng; có thể nhận biết được",
+        "example": "The proposal needs concrete evidence before it can be approved."
+    },
+    {
+        "id": 53,
+        "word": "Spectacle",
+        "definition": "An impressive or unusual sight or display.",
+        "vietnamese": "Cảnh tượng ấn tượng; màn trình diễn ngoạn mục",
+        "example": "The fireworks display was a spectacular spectacle that drew thousands of onlookers."
+    },
+    {
+        "id": 54,
+        "word": "Reproduction",
+        "definition": "The process of making a copy or duplicate of something.",
+        "vietnamese": "Sự tái tạo; bản sao; quá trình sinh sản hoặc tái hiện",
+        "example": "The museum sold high-quality reproductions of famous paintings in its gift shop."
+    },
+    {
+        "id": 55,
+        "word": "Pretentiousness",
+        "definition": "The quality of trying to appear more important or clever than one really is.",
+        "vietnamese": "Sự kệch cỡm; ra vẻ quan trọng hoặc thông minh hơn thực tế",
+        "example": "His pretentiousness alienated colleagues who found him difficult to work with."
+    },
+    {
+        "id": 56,
+        "word": "Disguise",
+        "definition": "Something that changes appearance to hide identity.",
+        "vietnamese": "Cải trang; che giấu danh tính; ngụy trang",
+        "example": "She wore a disguise to enter the event without being recognized."
+    },
+    {
+        "id": 57,
+        "word": "Enduring",
+        "definition": "Lasting for a long time; durable.",
+        "vietnamese": "Lâu bền; trường tồn; tồn tại lâu dài",
+        "example": "Their enduring friendship survived decades of separation."
+    },
+    {
+        "id": 58,
+        "word": "Conspicuous",
+        "definition": "Easily seen or noticed; attracting attention.",
+        "vietnamese": "Dễ nhận thấy; nổi bật; thu hút sự chú ý",
+        "example": "The bright red car was conspicuous in the parking lot full of gray vehicles."
+    },
+    {
+        "id": 59,
+        "word": "Deserving",
+        "definition": "Worthy of reward or praise.",
+        "vietnamese": "Xứng đáng được khen thưởng hoặc công nhận",
+        "example": "She is a deserving candidate for the scholarship given her outstanding achievements."
+    },
+    {
+        "id": 60,
+        "word": "Uncertain",
+        "definition": "Not sure or definite; doubtful.",
+        "vietnamese": "Không chắc chắn; mơ hồ; đáng ngờ",
+        "example": "The outcome of the experiment remained uncertain until the final results came in."
+    },
+    {
+        "id": 61,
+        "word": "Equivocal",
+        "definition": "Ambiguous; open to more than one interpretation.",
+        "vietnamese": "Nước đôi; mơ hồ; có thể hiểu theo nhiều nghĩa",
+        "example": "His equivocal response left everyone unsure of his true intentions."
+    },
+    {
+        "id": 62,
+        "word": "Persuasive",
+        "definition": "Able to convince or influence someone.",
+        "vietnamese": "Có sức thuyết phục; có khả năng gây ảnh hưởng",
+        "example": "Her persuasive arguments convinced the board to approve the new budget."
+    },
+    {
+        "id": 63,
+        "word": "Exclusive",
+        "definition": "Limited to a particular group; not shared.",
+        "vietnamese": "Độc quyền; dành riêng cho một nhóm; không chia sẻ",
+        "example": "The exclusive club only admitted members who had been personally recommended."
+    },
+    {
+        "id": 64,
+        "word": "Irreproachable",
+        "definition": "Faultless; beyond criticism.",
+        "vietnamese": "Không thể chê trách; hoàn hảo; không có lỗi",
+        "example": "Her irreproachable conduct throughout the investigation earned her widespread respect."
+    },
+    {
+        "id": 65,
+        "word": "Unequivocal",
+        "definition": "Leaving no doubt; clear and unambiguous.",
+        "vietnamese": "Rõ ràng dứt khoát; không để lại nghi ngờ",
+        "example": "The judge delivered an unequivocal verdict that put the matter to rest."
+    },
+    {
+        "id": 66,
+        "word": "Insuperable",
+        "definition": "Impossible to overcome.",
+        "vietnamese": "Không thể vượt qua; không thể khắc phục",
+        "example": "The mountaineers faced what seemed like insuperable obstacles before reaching the summit."
+    },
+    {
+        "id": 67,
+        "word": "Ineluctable",
+        "definition": "Inevitable; unable to be avoided.",
+        "vietnamese": "Không thể tránh khỏi; tất yếu phải xảy ra",
+        "example": "Death is the ineluctable fate that awaits all living beings."
+    },
+    {
+        "id": 68,
+        "word": "Precede",
+        "definition": "To come before in time or order.",
+        "vietnamese": "Đi trước; xảy ra trước; đứng trước về thứ tự",
+        "example": "A formal introduction should precede the main presentation."
+    },
+    {
+        "id": 69,
+        "word": "Designate",
+        "definition": "To officially choose or appoint someone or something for a specific purpose.",
+        "vietnamese": "Chỉ định; bổ nhiệm chính thức; đặt tên",
+        "example": "The committee designated her as the lead spokesperson for the campaign."
+    },
+    {
+        "id": 70,
+        "word": "Nurture",
+        "definition": "To care for and encourage growth or development.",
+        "vietnamese": "Nuôi dưỡng; chăm sóc và khuyến khích phát triển",
+        "example": "Good teachers nurture curiosity and creativity in their students."
+    },
+    {
+        "id": 71,
+        "word": "Preclude",
+        "definition": "To prevent or make impossible.",
+        "vietnamese": "Ngăn ngừa; loại trừ khả năng xảy ra",
+        "example": "His lack of experience precluded him from applying for the senior position."
+    },
+    {
+        "id": 72,
+        "word": "Assess",
+        "definition": "To evaluate or estimate the nature, quality, or value of something.",
+        "vietnamese": "Đánh giá; ước tính; thẩm định",
+        "example": "Teachers use various tests to assess students' understanding of the material."
+    },
+    {
+        "id": 73,
+        "word": "Unvarying",
+        "definition": "Not changing; constant.",
+        "vietnamese": "Không thay đổi; đều đặn; bất biến",
+        "example": "The monk maintained an unvarying routine of meditation and prayer each day."
+    },
+    {
+        "id": 74,
+        "word": "Objective",
+        "definition": "Based on facts, not influenced by personal feelings or opinions.",
+        "vietnamese": "Khách quan; dựa trên sự thật; không bị cảm xúc chi phối",
+        "example": "A good journalist must maintain an objective perspective when reporting the news."
+    },
+    {
+        "id": 75,
+        "word": "Reciprocate",
+        "definition": "To give or feel in return; respond mutually.",
+        "vietnamese": "Đáp lại; trả lại; có sự tương hỗ",
+        "example": "She reciprocated his kindness by helping him move into his new apartment."
+    },
+    {
+        "id": 76,
+        "word": "Annotate",
+        "definition": "To add notes or comments to a text or diagram.",
+        "vietnamese": "Chú thích; ghi chú thêm vào văn bản hoặc sơ đồ",
+        "example": "Students were asked to annotate the poem with their observations and interpretations."
+    },
+    {
+        "id": 77,
+        "word": "Equalize",
+        "definition": "To make equal or uniform.",
+        "vietnamese": "Cân bằng; làm cho ngang nhau; bình đẳng hóa",
+        "example": "The new policy aimed to equalize educational opportunities across all districts."
+    },
+    {
+        "id": 78,
+        "word": "Achieved",
+        "definition": "Successfully reached a goal or completed a task.",
+        "vietnamese": "Đã đạt được; hoàn thành mục tiêu thành công",
+        "example": "She achieved her dream of becoming a published author after years of hard work."
+    },
+    {
+        "id": 79,
+        "word": "Eccentric",
+        "definition": "Unconventional or slightly strange behavior or style.",
+        "vietnamese": "Kỳ quặc; lập dị; hành động không theo lẽ thường",
+        "example": "The eccentric inventor wore mismatched socks and spoke to his plants every morning."
+    },
+    {
+        "id": 80,
+        "word": "Meager",
+        "definition": "Lacking in quantity or quality; insufficient.",
+        "vietnamese": "Ít ỏi; thiếu thốn; không đủ về số lượng hay chất lượng",
+        "example": "The family survived on a meager income of just a few dollars a day."
+    },
+    {
+        "id": 81,
+        "word": "Conventional",
+        "definition": "Based on or in accordance with what is generally done or believed.",
+        "vietnamese": "Truyền thống; theo thông lệ; phù hợp với chuẩn mực chung",
+        "example": "He rejected conventional career paths and chose to become an artist."
+    },
+    {
+        "id": 82,
+        "word": "Random",
+        "definition": "Made or done without method or conscious decision.",
+        "vietnamese": "Ngẫu nhiên; không có phương pháp; tùy tiện",
+        "example": "The winners were chosen by a random draw from all the entries."
+    },
+    {
+        "id": 83,
+        "word": "Tough",
+        "definition": "Strong and durable; difficult to break or deal with.",
+        "vietnamese": "Cứng rắn; bền bỉ; khó khăn; kiên cường",
+        "example": "It was a tough decision, but she ultimately chose to resign from her position."
+    },
+    {
+        "id": 84,
+        "word": "Hideous",
+        "definition": "Extremely ugly or unpleasant.",
+        "vietnamese": "Xấu xí ghê tởm; kinh khủng; rất khó chịu",
+        "example": "The monster in the story was described as hideous, with scales and glowing red eyes."
+    },
+    {
+        "id": 85,
+        "word": "Irresolvable",
+        "definition": "Impossible to solve or fix.",
+        "vietnamese": "Không thể giải quyết; không có cách khắc phục",
+        "example": "The conflict between the two parties seemed irresolvable after years of failed negotiations."
+    },
+    {
+        "id": 86,
+        "word": "Self-contradictory",
+        "definition": "Containing opposing or conflicting statements or ideas.",
+        "vietnamese": "Mâu thuẫn với chính mình; chứa đựng những ý tưởng trái ngược nhau",
+        "example": "His argument was self-contradictory, claiming to support freedom while restricting choice."
+    },
+    {
+        "id": 87,
+        "word": "Imperative",
+        "definition": "Of vital importance; necessary.",
+        "vietnamese": "Bắt buộc; cực kỳ quan trọng; cần thiết",
+        "example": "It is imperative that all employees complete the safety training before starting work."
+    },
+    {
+        "id": 88,
+        "word": "Unavoidable",
+        "definition": "Certain to happen; impossible to avoid.",
+        "vietnamese": "Không thể tránh khỏi; tất yếu xảy ra",
+        "example": "Some degree of risk is unavoidable when launching a new business."
+    },
+    {
+        "id": 89,
+        "word": "Convince",
+        "definition": "To persuade someone to believe or do something.",
+        "vietnamese": "Thuyết phục; làm cho ai đó tin hoặc làm điều gì đó",
+        "example": "She worked hard to convince her parents to let her study abroad."
+    },
+    {
+        "id": 90,
+        "word": "Distract",
+        "definition": "To divert attention away from something.",
+        "vietnamese": "Làm mất tập trung; đánh lạc hướng chú ý",
+        "example": "Loud music in the library distracted students who were trying to study."
+    },
+    {
+        "id": 91,
+        "word": "Fluctuate",
+        "definition": "To change or vary irregularly.",
+        "vietnamese": "Dao động; thay đổi không đều; lên xuống thất thường",
+        "example": "Stock prices fluctuate daily in response to economic news and investor sentiment."
+    },
+    {
+        "id": 92,
+        "word": "Testify",
+        "definition": "To give evidence or bear witness, especially in a legal context.",
+        "vietnamese": "Làm chứng; khai báo; cung cấp bằng chứng (đặc biệt trong tòa án)",
+        "example": "Three witnesses were called to testify about what they saw on the night of the incident."
+    },
+    {
+        "id": 93,
+        "word": "Conflict",
+        "definition": "A serious disagreement or argument.",
+        "vietnamese": "Xung đột; mâu thuẫn; tranh cãi nghiêm trọng",
+        "example": "The conflict between the two departments was resolved through mediation."
+    },
+    {
+        "id": 94,
+        "word": "Mock",
+        "definition": "To make fun of or ridicule.",
+        "vietnamese": "Chế giễu; nhạo báng; bắt chước để chê cười",
+        "example": "It is unkind to mock someone for their accent or cultural background."
+    },
+    {
+        "id": 95,
+        "word": "Apprised",
+        "definition": "Informed or notified about something.",
+        "vietnamese": "Được thông báo; được biết về điều gì đó",
+        "example": "The manager was apprised of the situation before the press conference began."
+    },
+    {
+        "id": 96,
+        "word": "Unsympathetic",
+        "definition": "Showing no pity or understanding toward someone or something.",
+        "vietnamese": "Không đồng cảm; không có lòng trắc ẩn; thờ ơ với nỗi đau của người khác",
+        "example": "The unsympathetic landlord refused to give any extension on the rent deadline."
+    },
+    {
+        "id": 97,
+        "word": "Cited",
+        "definition": "Mentioned or referred to in a particular source.",
+        "vietnamese": "Được trích dẫn; được nhắc đến trong nguồn tài liệu",
+        "example": "The study was widely cited in academic papers on environmental science."
+    },
+    {
+        "id": 98,
+        "word": "Placated",
+        "definition": "Calmed or pacified by something.",
+        "vietnamese": "Được xoa dịu; được làm nguôi cơn giận",
+        "example": "The angry customer was placated by a sincere apology and a full refund."
+    },
+    {
+        "id": 99,
+        "word": "Dispersed",
+        "definition": "Scattered or spread over a wide area.",
+        "vietnamese": "Phân tán; tản ra; rải rác trên diện rộng",
+        "example": "The crowd dispersed quickly after the event was cancelled due to rain."
+    },
+    {
+        "id": 100,
+        "word": "Customary",
+        "definition": "According to the usual practices or traditions.",
+        "vietnamese": "Theo thông lệ; theo tập quán; theo truyền thống",
+        "example": "It is customary to bow when greeting elders in many Asian cultures."
+    },
+    {
+        "id": 101,
+        "word": "Amorphous",
+        "definition": "Lacking a clear shape or form; shapeless.",
+        "vietnamese": "Không có hình dạng rõ ràng; vô định hình",
+        "example": "The amorphous blob of clay slowly took shape under the sculptor's hands."
+    },
+    {
+        "id": 102,
+        "word": "Neutral",
+        "definition": "Not taking sides; unbiased or impartial.",
+        "vietnamese": "Trung lập; không thiên vị; không đứng về phía nào",
+        "example": "Switzerland maintained a neutral stance during both World Wars."
+    },
+    {
+        "id": 103,
+        "word": "Stipulate",
+        "definition": "To specify a condition or requirement clearly.",
+        "vietnamese": "Quy định rõ ràng; đặt ra điều kiện hoặc yêu cầu cụ thể",
+        "example": "The contract stipulates that both parties must give 30 days' notice before terminating."
+    },
+    {
+        "id": 104,
+        "word": "Supplant",
+        "definition": "To replace something, often by force or strategy.",
+        "vietnamese": "Thay thế; chiếm chỗ; soán ngôi",
+        "example": "Streaming services have largely supplanted physical video rental stores."
+    },
+    {
+        "id": 105,
+        "word": "Musical",
+        "definition": "Relating to music; having a pleasant sound.",
+        "vietnamese": "Liên quan đến âm nhạc; có âm thanh dễ chịu; có năng khiếu âm nhạc",
+        "example": "She had a musical laugh that made everyone around her smile."
+    },
+    {
+        "id": 106,
+        "word": "Beneficial",
+        "definition": "Helpful or good; producing a positive effect.",
+        "vietnamese": "Có lợi; có ích; tạo ra hiệu quả tích cực",
+        "example": "Regular exercise is beneficial for both physical and mental health."
+    },
+    {
+        "id": 107,
+        "word": "Misconstrued",
+        "definition": "Misunderstood or interpreted incorrectly.",
+        "vietnamese": "Hiểu sai; diễn giải không đúng",
+        "example": "Her remark was misconstrued as criticism when she had only meant to offer advice."
+    },
+    {
+        "id": 108,
+        "word": "Catalyzing",
+        "definition": "Causing or speeding up a reaction or change.",
+        "vietnamese": "Xúc tác; thúc đẩy; khởi động một phản ứng hoặc thay đổi",
+        "example": "The protest became a catalyzing event that led to sweeping policy reforms."
+    },
+    {
+        "id": 109,
+        "word": "Appraising",
+        "definition": "Evaluating or judging the value or quality of something.",
+        "vietnamese": "Đánh giá; thẩm định giá trị hoặc chất lượng",
+        "example": "The art dealer spent hours appraising the newly discovered painting."
+    },
+    {
+        "id": 110,
+        "word": "Exploiting",
+        "definition": "Using something or someone unfairly for benefit.",
+        "vietnamese": "Khai thác bất công; lợi dụng người khác hoặc tài nguyên",
+        "example": "The documentary exposed companies exploiting cheap labor in developing countries."
+    },
+    {
+        "id": 111,
+        "word": "Monetizing",
+        "definition": "Converting something into money or a source of income.",
+        "vietnamese": "Kiếm tiền từ; chuyển hóa thành nguồn thu nhập",
+        "example": "Many content creators are monetizing their social media presence through sponsorships."
+    },
+    {
+        "id": 112,
+        "word": "Voluntarily",
+        "definition": "Done by choice or free will, without being forced.",
+        "vietnamese": "Tự nguyện; theo ý muốn tự do; không bị ép buộc",
+        "example": "She voluntarily gave up her seat on the plane to a family with young children."
+    },
+    {
+        "id": 113,
+        "word": "Tenderly",
+        "definition": "Gently and with care or affection.",
+        "vietnamese": "Nhẹ nhàng; trìu mến; với sự quan tâm yêu thương",
+        "example": "The nurse tenderly bandaged the child's wound to minimize any discomfort."
+    },
+    {
+        "id": 114,
+        "word": "Mitigate",
+        "definition": "To make something less severe, serious, or painful.",
+        "vietnamese": "Giảm nhẹ; làm bớt nghiêm trọng hoặc đau đớn",
+        "example": "Wearing sunscreen can help mitigate the risk of skin damage from UV rays."
+    },
+    {
+        "id": 115,
+        "word": "Venerate",
+        "definition": "To regard with great respect or reverence.",
+        "vietnamese": "Tôn kính; sùng bái; kính trọng sâu sắc",
+        "example": "In many cultures, elders are venerated for their wisdom and life experience."
+    },
+    {
+        "id": 116,
+        "word": "Satiate",
+        "definition": "To satisfy fully, especially hunger or desire.",
+        "vietnamese": "Thỏa mãn hoàn toàn; no nê; đáp ứng đầy đủ ham muốn",
+        "example": "A large bowl of soup was enough to satiate her hunger after the long hike."
+    },
+    {
+        "id": 117,
+        "word": "Orthodox",
+        "definition": "Following established or traditional beliefs or practices.",
+        "vietnamese": "Chính thống; theo tín ngưỡng hoặc phong tục truyền thống",
+        "example": "He followed orthodox medical treatments rather than experimenting with alternative therapies."
+    },
+    {
+        "id": 118,
+        "word": "Redundancy",
+        "definition": "Unnecessary repetition or duplication.",
+        "vietnamese": "Sự dư thừa; lặp lại không cần thiết; trùng lặp",
+        "example": "The editor removed all redundancy from the report to make it more concise."
+    },
+    {
+        "id": 119,
+        "word": "Recurrent",
+        "definition": "Occurring repeatedly or periodically.",
+        "vietnamese": "Tái phát; xảy ra lặp đi lặp lại; định kỳ",
+        "example": "She suffered from recurrent headaches that interfered with her daily routine."
+    },
+    {
+        "id": 120,
+        "word": "Complaint",
+        "definition": "An expression of dissatisfaction concerning something.",
+        "vietnamese": "Lời phàn nàn; sự bày tỏ không hài lòng về điều gì đó",
+        "example": "The customer filed a formal complaint about the poor service at the restaurant."
+    },
+    {
+        "id": 121,
+        "word": "Unbothered",
+        "definition": "Not disturbed or troubled by something.",
+        "vietnamese": "Không bị làm phiền; không bị ảnh hưởng; điềm nhiên",
+        "example": "She remained unbothered by the negative comments and continued her work."
+    },
+    {
+        "id": 122,
+        "word": "Hesitant",
+        "definition": "Uncertain or slow to act due to doubt or fear.",
+        "vietnamese": "Do dự; chần chừ; không chắc chắn vì nghi ngờ hoặc sợ hãi",
+        "example": "He was hesitant to speak in public, fearing he would forget his lines."
+    },
+    {
+        "id": 123,
+        "word": "Inconsequential",
+        "definition": "Not important or significant.",
+        "vietnamese": "Không quan trọng; không đáng kể; tầm thường",
+        "example": "The minor errors in the report were inconsequential and did not affect the conclusions."
+    },
+    {
+        "id": 124,
+        "word": "Momentous",
+        "definition": "Of great importance or significance.",
+        "vietnamese": "Trọng đại; có ý nghĩa lớn lao; đáng ghi nhớ",
+        "example": "The signing of the peace treaty was a momentous occasion in the country's history."
+    },
+    {
+        "id": 125,
+        "word": "Benevolent",
+        "definition": "Kind and generous.",
+        "vietnamese": "Nhân từ; tốt bụng; rộng lượng",
+        "example": "The benevolent donor funded scholarships for hundreds of underprivileged students."
+    },
+    {
+        "id": 126,
+        "word": "Genuine",
+        "definition": "Authentic, real, or sincere.",
+        "vietnamese": "Thật sự; chính hãng; chân thành",
+        "example": "His genuine concern for his students made him one of the most beloved teachers."
+    },
+    {
+        "id": 127,
+        "word": "Repository",
+        "definition": "A place where things are stored or collected.",
+        "vietnamese": "Kho lưu trữ; nơi tập hợp và cất giữ thông tin hoặc vật phẩm",
+        "example": "The library served as a repository of historical records dating back centuries."
+    },
+    {
+        "id": 128,
+        "word": "Disparity",
+        "definition": "A great difference or inequality.",
+        "vietnamese": "Sự chênh lệch lớn; bất bình đẳng; khác biệt đáng kể",
+        "example": "There remains a significant disparity in wages between men and women in many industries."
+    },
+    {
+        "id": 129,
+        "word": "Vindicate",
+        "definition": "To clear someone of blame or suspicion.",
+        "vietnamese": "Minh oan; chứng minh vô tội; bảo vệ khỏi bị đổ lỗi",
+        "example": "New DNA evidence vindicated the man who had spent years in prison for a crime he did not commit."
+    },
+    {
+        "id": 130,
+        "word": "Petition",
+        "definition": "A formal request, often signed by many people.",
+        "vietnamese": "Kiến nghị; đơn yêu cầu chính thức, thường có nhiều chữ ký",
+        "example": "Over ten thousand residents signed a petition opposing the construction of the new highway."
+    },
+    {
+        "id": 131,
+        "word": "Synopsis",
+        "definition": "A brief summary or general overview.",
+        "vietnamese": "Tóm tắt; bản tóm lược ngắn gọn",
+        "example": "The editor asked for a one-page synopsis of the novel before reviewing the full manuscript."
+    },
+    {
+        "id": 132,
+        "word": "Supposition",
+        "definition": "An assumption or hypothesis without proof.",
+        "vietnamese": "Giả thuyết; suy đoán không có bằng chứng",
+        "example": "His argument was based on supposition rather than concrete evidence."
+    },
+    {
+        "id": 133,
+        "word": "Register",
+        "definition": "To record or enroll officially.",
+        "vietnamese": "Đăng ký; ghi chép chính thức",
+        "example": "All new students must register at the administration office before attending classes."
+    },
+    {
+        "id": 134,
+        "word": "Impeding",
+        "definition": "Obstructing or slowing the progress of something.",
+        "vietnamese": "Cản trở; gây trở ngại; làm chậm tiến trình",
+        "example": "Heavy traffic was impeding emergency vehicles from reaching the scene of the accident."
+    },
+    {
+        "id": 135,
+        "word": "Individualistic",
+        "definition": "Showing independence or uniqueness in thought or behavior.",
+        "vietnamese": "Theo chủ nghĩa cá nhân; thể hiện sự độc lập và khác biệt",
+        "example": "Her individualistic style set her apart from the more conformist members of the group."
+    },
+    {
+        "id": 136,
+        "word": "Uncontroversial",
+        "definition": "Not likely to cause disagreement or argument.",
+        "vietnamese": "Không gây tranh cãi; được chấp nhận rộng rãi",
+        "example": "The proposal to plant more trees in the city was largely uncontroversial."
+    },
+    {
+        "id": 137,
+        "word": "Homogeneous",
+        "definition": "Made up of parts that are all the same kind.",
+        "vietnamese": "Đồng nhất; cấu thành từ các phần giống nhau",
+        "example": "The neighborhood was once homogeneous, but immigration has made it more diverse."
+    },
+    {
+        "id": 138,
+        "word": "Heterogeneous",
+        "definition": "Made up of different kinds or types.",
+        "vietnamese": "Không đồng nhất; gồm nhiều loại khác nhau; đa dạng",
+        "example": "The committee was heterogeneous, drawing members from various professional backgrounds."
+    },
+    {
+        "id": 139,
+        "word": "Theoretical",
+        "definition": "Based on ideas or theory rather than practice.",
+        "vietnamese": "Lý thuyết; dựa trên lý luận hơn là thực tiễn",
+        "example": "The theoretical model worked well on paper but proved difficult to implement in reality."
+    },
+    {
+        "id": 140,
+        "word": "Crumble",
+        "definition": "To break into small pieces or collapse gradually.",
+        "vietnamese": "Vỡ vụn; sụp đổ dần dần; tan rã",
+        "example": "Without proper maintenance, the old building began to crumble."
+    },
+    {
+        "id": 141,
+        "word": "Startle",
+        "definition": "To surprise or frighten suddenly.",
+        "vietnamese": "Làm giật mình; làm sợ đột ngột",
+        "example": "A loud clap of thunder startled everyone in the quiet room."
+    },
+    {
+        "id": 142,
+        "word": "Familiarize",
+        "definition": "To make someone well-acquainted or knowledgeable about something.",
+        "vietnamese": "Làm quen; giới thiệu để hiểu biết; làm cho thông thạo",
+        "example": "New employees should familiarize themselves with the company's policies on their first day."
+    },
+    {
+        "id": 143,
+        "word": "Overlook",
+        "definition": "To fail to notice or consider something.",
+        "vietnamese": "Bỏ sót; không chú ý đến; nhìn qua mà không để ý",
+        "example": "In her rush to submit the report, she overlooked several important typos."
+    },
+    {
+        "id": 144,
+        "word": "Modest",
+        "definition": "Not overly proud or boastful; humble.",
+        "vietnamese": "Khiêm tốn; không phô trương; giản dị",
+        "example": "Despite his many achievements, he remained modest and rarely spoke about himself."
+    },
+    {
+        "id": 145,
+        "word": "Paucity",
+        "definition": "A small amount or scarcity.",
+        "vietnamese": "Sự thiếu hụt; khan hiếm; số lượng rất ít",
+        "example": "There is a paucity of research on the long-term effects of this new medication."
+    },
+    {
+        "id": 146,
+        "word": "Sympathy",
+        "definition": "Understanding or sharing someone else's feelings, especially sadness.",
+        "vietnamese": "Sự đồng cảm; chia sẻ cảm xúc của người khác, đặc biệt là nỗi buồn",
+        "example": "She sent a card expressing her sympathy to the family after their loss."
+    },
+    {
+        "id": 147,
+        "word": "Tenuous",
+        "definition": "Very weak or slight; insubstantial.",
+        "vietnamese": "Mong manh; yếu ớt; không đáng tin cậy",
+        "example": "The connection between the two events was tenuous at best."
+    },
+    {
+        "id": 148,
+        "word": "Interdependent",
+        "definition": "Mutually reliant on each other.",
+        "vietnamese": "Phụ thuộc lẫn nhau; có quan hệ tương hỗ",
+        "example": "In a healthy ecosystem, all organisms are interdependent."
+    },
+    {
+        "id": 149,
+        "word": "Unyielding",
+        "definition": "Firm; not giving way under pressure.",
+        "vietnamese": "Kiên định; không nhượng bộ; cứng rắn dưới áp lực",
+        "example": "Her unyielding determination helped her overcome every obstacle in her path."
+    },
+    {
+        "id": 150,
+        "word": "Comprehensive",
+        "definition": "Complete and including everything necessary.",
+        "vietnamese": "Toàn diện; đầy đủ; bao quát mọi khía cạnh",
+        "example": "The report provided a comprehensive analysis of the economic situation."
+    },
+    {
+        "id": 151,
+        "word": "Indication",
+        "definition": "A sign or piece of evidence that suggests something.",
+        "vietnamese": "Dấu hiệu; bằng chứng cho thấy điều gì đó",
+        "example": "The rising unemployment rate is an indication of broader economic problems."
+    },
+    {
+        "id": 152,
+        "word": "Rarely",
+        "definition": "Not often; infrequently.",
+        "vietnamese": "Hiếm khi; không thường xuyên",
+        "example": "She rarely missed a class throughout her entire four years of university."
+    },
+    {
+        "id": 153,
+        "word": "Buttress",
+        "definition": "To support or strengthen something.",
+        "vietnamese": "Củng cố; hỗ trợ; gia cố thêm",
+        "example": "Additional research was needed to buttress the claims made in the original study."
+    },
+    {
+        "id": 154,
+        "word": "Antagonistic",
+        "definition": "Hostile or opposed to someone or something.",
+        "vietnamese": "Thù địch; chống đối; có thái độ thù nghịch",
+        "example": "His antagonistic attitude toward new ideas slowed the team's progress significantly."
+    },
+    {
+        "id": 155,
+        "word": "Imitated",
+        "definition": "Copied or reproduced by someone else.",
+        "vietnamese": "Được bắt chước; được sao chép; được mô phỏng theo",
+        "example": "Her unique painting style has been widely imitated but never truly replicated."
+    },
+    {
+        "id": 156,
+        "word": "Suspicion",
+        "definition": "A feeling or belief that something is wrong or likely true without proof.",
+        "vietnamese": "Sự nghi ngờ; cảm giác hoặc niềm tin rằng có điều gì đó không đúng",
+        "example": "The detective's suspicion was confirmed when fingerprints matched the suspect."
+    },
+    {
+        "id": 157,
+        "word": "Assumption",
+        "definition": "Something accepted as true without proof.",
+        "vietnamese": "Giả định; điều được coi là đúng mà không cần bằng chứng",
+        "example": "His business plan was built on the assumption that demand would continue to grow."
+    },
+    {
+        "id": 158,
+        "word": "Partition",
+        "definition": "A division or separation into parts.",
+        "vietnamese": "Sự phân chia; vách ngăn; chia tách thành nhiều phần",
+        "example": "A glass partition separated the open office space from the meeting rooms."
+    },
+    {
+        "id": 159,
+        "word": "Refute",
+        "definition": "To prove something wrong or false.",
+        "vietnamese": "Bác bỏ; chứng minh điều gì đó là sai",
+        "example": "The scientist refuted the popular theory with a series of carefully conducted experiments."
+    },
+    {
+        "id": 160,
+        "word": "Vacate",
+        "definition": "To leave a place empty or to give up a position.",
+        "vietnamese": "Rời bỏ; trả lại; làm trống chỗ hoặc vị trí",
+        "example": "Guests were asked to vacate their hotel rooms by noon on the day of checkout."
+    },
+    {
+        "id": 161,
+        "word": "Visualize",
+        "definition": "To form a mental image of something.",
+        "vietnamese": "Hình dung; tưởng tượng; tạo hình ảnh trong tâm trí",
+        "example": "Athletes often visualize themselves winning before competing in important events."
+    },
+    {
+        "id": 162,
+        "word": "Clumsily",
+        "definition": "In an awkward or uncoordinated way.",
+        "vietnamese": "Vụng về; thiếu phối hợp; không khéo léo",
+        "example": "He clumsily knocked over the glass of water while reaching for his phone."
+    },
+    {
+        "id": 163,
+        "word": "Reliably",
+        "definition": "Consistently and dependably.",
+        "vietnamese": "Một cách đáng tin cậy; nhất quán; ổn định",
+        "example": "The machine reliably produced high-quality parts with very little variation."
+    },
+    {
+        "id": 164,
+        "word": "Enhancement",
+        "definition": "An improvement or increase in quality or value.",
+        "vietnamese": "Sự cải thiện; nâng cao chất lượng hoặc giá trị",
+        "example": "The software update included several enhancements to the user interface."
+    },
+    {
+        "id": 165,
+        "word": "Fabrication",
+        "definition": "Something made up or invented; a lie or falsehood.",
+        "vietnamese": "Sự bịa đặt; lời nói dối; điều bịa ra",
+        "example": "The accusations turned out to be a complete fabrication with no factual basis."
+    },
+    {
+        "id": 166,
+        "word": "Revelation",
+        "definition": "A surprising or unknown fact made known.",
+        "vietnamese": "Sự tiết lộ; điều bất ngờ được khám phá; khải huyền",
+        "example": "The revelation that the CEO had been embezzling funds shocked the entire company."
+    },
+    {
+        "id": 167,
+        "word": "Ineligible",
+        "definition": "Not qualified or allowed to do or be something.",
+        "vietnamese": "Không đủ tiêu chuẩn; không được phép tham gia",
+        "example": "She was ineligible to vote in the election because she had not registered on time."
+    },
+    {
+        "id": 168,
+        "word": "Reluctant",
+        "definition": "Unwilling or hesitant to do something.",
+        "vietnamese": "Miễn cưỡng; không sẵn lòng; do dự",
+        "example": "He was reluctant to accept help, preferring to solve problems on his own."
+    },
+    {
+        "id": 169,
+        "word": "Precariousness",
+        "definition": "The state of being uncertain or unstable.",
+        "vietnamese": "Sự bấp bênh; không ổn định; dễ gặp rủi ro",
+        "example": "The precariousness of her financial situation kept her awake at night."
+    },
+    {
+        "id": 170,
+        "word": "Exactitude",
+        "definition": "The quality of being very accurate or precise.",
+        "vietnamese": "Sự chính xác tuyệt đối; độ chính xác cao",
+        "example": "The watchmaker worked with extraordinary exactitude to assemble the tiny components."
+    },
+    {
+        "id": 171,
+        "word": "Resilience",
+        "definition": "The ability to recover quickly from difficulties.",
+        "vietnamese": "Sức bật; khả năng phục hồi nhanh chóng sau khó khăn",
+        "example": "Children who develop resilience early are better prepared for life's challenges."
+    },
+    {
+        "id": 172,
+        "word": "Inconspicuousness",
+        "definition": "The quality of not attracting attention.",
+        "vietnamese": "Sự không nổi bật; không thu hút sự chú ý",
+        "example": "Her inconspicuousness made her the perfect candidate for the undercover assignment."
+    },
+    {
+        "id": 173,
+        "word": "Affinity",
+        "definition": "A natural liking or attraction to something.",
+        "vietnamese": "Sự đồng cảm tự nhiên; cảm tình; mối liên hệ gắn kết",
+        "example": "She had a natural affinity for languages and learned three fluently by age twenty."
+    },
+    {
+        "id": 174,
+        "word": "Manifest",
+        "definition": "Clearly shown or demonstrated in something.",
+        "vietnamese": "Hiển nhiên; thể hiện rõ ràng; biểu lộ",
+        "example": "His nervousness manifested itself in the form of constant fidgeting."
+    },
+    {
+        "id": 175,
+        "word": "Infer",
+        "definition": "To conclude based on evidence and reasoning.",
+        "vietnamese": "Suy luận; rút ra kết luận từ bằng chứng và lý lẽ",
+        "example": "From the clues at the scene, the detective inferred that the crime had been planned in advance."
+    },
+    {
+        "id": 176,
+        "word": "Corroborate",
+        "definition": "To confirm or support a statement or idea with evidence.",
+        "vietnamese": "Xác nhận; chứng thực; củng cố bằng bằng chứng",
+        "example": "A second witness came forward to corroborate the original testimony."
+    },
+    {
+        "id": 177,
+        "word": "Scrutinize",
+        "definition": "To examine carefully and in detail.",
+        "vietnamese": "Xem xét kỹ lưỡng; nghiên cứu chi tiết",
+        "example": "The auditors scrutinized every transaction in the company's financial records."
+    },
+    {
+        "id": 178,
+        "word": "Extrapolate",
+        "definition": "To estimate or infer something based on known information.",
+        "vietnamese": "Ngoại suy; ước tính dựa trên thông tin đã biết",
+        "example": "Scientists extrapolated future climate trends from decades of temperature data."
+    },
+    {
+        "id": 179,
+        "word": "Minimize",
+        "definition": "To reduce something to the smallest possible amount or degree.",
+        "vietnamese": "Giảm thiểu; giảm xuống mức nhỏ nhất có thể",
+        "example": "Using protective gear can minimize the risk of injury in the workplace."
+    },
+    {
+        "id": 180,
+        "word": "Symbolize",
+        "definition": "To represent or stand for something else.",
+        "vietnamese": "Tượng trưng cho; đại diện cho điều gì đó",
+        "example": "The white dove symbolizes peace in many cultures around the world."
+    },
+    {
+        "id": 181,
+        "word": "Conceal",
+        "definition": "To hide or keep something secret.",
+        "vietnamese": "Che giấu; giữ bí mật; ẩn đi",
+        "example": "She tried to conceal her disappointment behind a polite smile."
+    },
+    {
+        "id": 182,
+        "word": "Prestige",
+        "definition": "Widespread respect and admiration based on achievements.",
+        "vietnamese": "Uy tín; danh tiếng được kính trọng rộng rãi",
+        "example": "Winning the Nobel Prize brought great prestige to the university."
+    },
+    {
+        "id": 183,
+        "word": "Reliable",
+        "definition": "Able to be trusted or depended on.",
+        "vietnamese": "Đáng tin cậy; có thể phụ thuộc vào",
+        "example": "A reliable employee is one who consistently meets deadlines and delivers quality work."
+    },
+    {
+        "id": 184,
+        "word": "Verifiable",
+        "definition": "Able to be checked or proven true.",
+        "vietnamese": "Có thể kiểm chứng; có thể xác minh là đúng",
+        "example": "The researcher only included verifiable facts from credible sources."
+    },
+    {
+        "id": 185,
+        "word": "Infinitesimal",
+        "definition": "Extremely small; tiny.",
+        "vietnamese": "Vô cùng nhỏ; cực kỳ nhỏ bé; không đáng kể",
+        "example": "The difference in performance between the two models was infinitesimal."
+    },
+    {
+        "id": 186,
+        "word": "Emulate",
+        "definition": "To imitate or strive to equal someone or something.",
+        "vietnamese": "Noi gương; cố gắng ngang bằng hoặc vượt qua ai đó",
+        "example": "Many aspiring writers try to emulate the style of their favorite authors."
+    },
+    {
+        "id": 187,
+        "word": "Exhaust",
+        "definition": "To use up completely or to tire out.",
+        "vietnamese": "Làm cạn kiệt; sử dụng hết; làm mệt lả",
+        "example": "She exhausted all her savings trying to keep the small business running."
+    },
+    {
+        "id": 188,
+        "word": "Hastily",
+        "definition": "Done quickly and without careful thought.",
+        "vietnamese": "Vội vã; làm nhanh mà không suy nghĩ kỹ",
+        "example": "A decision made hastily is often one that is later regretted."
+    },
+    {
+        "id": 189,
+        "word": "Coincide",
+        "definition": "To happen at the same time as something else.",
+        "vietnamese": "Trùng hợp; xảy ra cùng thời điểm",
+        "example": "The festival coincided with the anniversary of the town's founding."
+    },
+    {
+        "id": 190,
+        "word": "Clash",
+        "definition": "To conflict or disagree with someone or something.",
+        "vietnamese": "Va chạm; xung đột; bất đồng với ai hoặc điều gì đó",
+        "example": "Their strong personalities clashed during the brainstorming session."
+    },
+    {
+        "id": 191,
+        "word": "Candor",
+        "definition": "Honesty and straightforwardness.",
+        "vietnamese": "Sự thẳng thắn; thành thật; không vòng vo",
+        "example": "She appreciated his candor in telling her the truth rather than what she wanted to hear."
+    },
+    {
+        "id": 192,
+        "word": "Reverence",
+        "definition": "Deep respect or admiration.",
+        "vietnamese": "Sự tôn kính sâu sắc; lòng ngưỡng mộ",
+        "example": "The students listened in reverence as the celebrated author read from her novel."
+    },
+    {
+        "id": 193,
+        "word": "Prudence",
+        "definition": "Careful good judgment that avoids risks.",
+        "vietnamese": "Sự thận trọng; sáng suốt; tránh rủi ro nhờ phán đoán tốt",
+        "example": "Financial prudence requires saving money even when income seems sufficient."
+    },
+    {
+        "id": 194,
+        "word": "Exhaustive",
+        "definition": "Thorough and complete.",
+        "vietnamese": "Kỹ lưỡng; toàn diện; đầy đủ không bỏ sót",
+        "example": "The investigator conducted an exhaustive search of the property for evidence."
+    },
+    {
+        "id": 195,
+        "word": "Superficial",
+        "definition": "Concerned only with the obvious or surface details.",
+        "vietnamese": "Bề ngoài; hời hợt; chỉ chú ý đến bề mặt",
+        "example": "Her analysis was superficial, failing to examine the deeper causes of the problem."
+    },
+    {
+        "id": 196,
+        "word": "Questionable",
+        "definition": "Doubtful or uncertain.",
+        "vietnamese": "Đáng ngờ; không chắc chắn; đáng đặt câu hỏi",
+        "example": "The authenticity of the painting was questionable given its unclear provenance."
+    },
+    {
+        "id": 197,
+        "word": "Imaginative",
+        "definition": "Creative and full of new ideas.",
+        "vietnamese": "Giàu trí tưởng tượng; sáng tạo; đầy ý tưởng mới",
+        "example": "Her imaginative approach to teaching made even the most complex subjects engaging."
+    },
+    {
+        "id": 198,
+        "word": "Capable",
+        "definition": "Having the ability or skill to do something.",
+        "vietnamese": "Có năng lực; có khả năng làm điều gì đó",
+        "example": "She proved herself capable of leading the team through a very difficult period."
+    },
+    {
+        "id": 199,
+        "word": "Considerable",
+        "definition": "Large in size, amount, or importance.",
+        "vietnamese": "Đáng kể; lớn về kích thước, số lượng hoặc tầm quan trọng",
+        "example": "The project required a considerable amount of time and financial investment."
+    },
+    {
+        "id": 200,
+        "word": "Biased",
+        "definition": "Unfairly favoring one side or opinion.",
+        "vietnamese": "Thiên vị; có định kiến; không công bằng khi ủng hộ một phía",
+        "example": "A biased report cannot be used as objective evidence in scientific research."
+    },
+    {
+        "id": 201,
+        "word": "Precursor",
+        "definition": "Something that comes before and signals the approach of another.",
+        "vietnamese": "Chất tiền thân; dấu hiệu báo trước; tiền thân của điều gì đó",
+        "example": "Widespread inflation is often a precursor to an economic recession."
+    },
+    {
+        "id": 202,
+        "word": "Dogmatic",
+        "definition": "Stubbornly sticking to beliefs without considering others' opinions.",
+        "vietnamese": "Giáo điều; cứng nhắc trong niềm tin; không chịu lắng nghe quan điểm khác",
+        "example": "His dogmatic insistence on one approach prevented the team from finding better solutions."
+    },
+    {
+        "id": 203,
+        "word": "Vacillating",
+        "definition": "Wavering between different opinions or actions.",
+        "vietnamese": "Do dự; lưỡng lự; dao động giữa các ý kiến hoặc hành động",
+        "example": "Her vacillating stance on the issue made it hard for others to trust her leadership."
+    },
+    {
+        "id": 204,
+        "word": "Banal",
+        "definition": "Boringly ordinary or predictable.",
+        "vietnamese": "Tẻ nhạt; nhàm chán; thiếu sáng tạo; quá quen thuộc",
+        "example": "Critics dismissed the film as banal, offering nothing new to the genre."
+    },
+    {
+        "id": 205,
+        "word": "Disingenuous",
+        "definition": "Not sincere or honest.",
+        "vietnamese": "Không thành thật; giả tạo; thiếu chân thành",
+        "example": "His apology seemed disingenuous, as he made the same mistake shortly after."
+    },
+    {
+        "id": 206,
+        "word": "Excessive",
+        "definition": "More than necessary or reasonable.",
+        "vietnamese": "Quá mức; vượt quá giới hạn hợp lý",
+        "example": "Excessive use of social media can negatively affect mental health."
+    },
+    {
+        "id": 207,
+        "word": "Solitary",
+        "definition": "Done or existing alone.",
+        "vietnamese": "Cô đơn; đơn độc; một mình",
+        "example": "He preferred solitary walks in the forest to social gatherings."
+    },
+    {
+        "id": 208,
+        "word": "Reform",
+        "definition": "To make changes in order to improve something.",
+        "vietnamese": "Cải cách; cải tổ; thực hiện thay đổi để cải thiện",
+        "example": "The government announced sweeping educational reforms to improve student outcomes."
+    },
+    {
+        "id": 209,
+        "word": "Competent",
+        "definition": "Having the necessary ability or knowledge to do something well.",
+        "vietnamese": "Có năng lực; đủ khả năng làm tốt một việc",
+        "example": "A competent manager can handle crises calmly and efficiently."
+    },
+    {
+        "id": 210,
+        "word": "Quintessential",
+        "definition": "Representing the most perfect or typical example of something.",
+        "vietnamese": "Điển hình nhất; tiêu biểu nhất; thể hiện bản chất cốt lõi",
+        "example": "New York City is often described as the quintessential modern metropolis."
+    },
+    {
+        "id": 211,
+        "word": "Negate",
+        "definition": "To nullify or make ineffective; to deny the existence or truth of something.",
+        "vietnamese": "Phủ định; làm vô hiệu; phủ nhận sự tồn tại hoặc sự thật",
+        "example": "One poor decision can negate years of careful financial planning."
+    },
+    {
+        "id": 212,
+        "word": "Censure",
+        "definition": "To express strong disapproval or criticism.",
+        "vietnamese": "Lên án; phê phán mạnh mẽ; chỉ trích gay gắt",
+        "example": "The senator was formally censured for his misconduct by the ethics committee."
+    },
+    {
+        "id": 213,
+        "word": "Coerce",
+        "definition": "To force someone to do something against their will.",
+        "vietnamese": "Ép buộc; cưỡng bức; bắt ai đó làm điều gì đó trái ý",
+        "example": "Employees should never be coerced into working overtime without proper compensation."
+    },
+    {
+        "id": 214,
+        "word": "Castigate",
+        "definition": "To criticize or reprimand severely.",
+        "vietnamese": "Phê bình gay gắt; quở trách nặng nề",
+        "example": "The press castigated the official for his irresponsible public statements."
+    },
+    {
+        "id": 215,
+        "word": "Benefactor",
+        "definition": "A person who gives help, especially financial aid.",
+        "vietnamese": "Nhà hảo tâm; người bảo trợ; người giúp đỡ tài chính",
+        "example": "An anonymous benefactor donated one million dollars to the children's hospital."
+    },
+    {
+        "id": 216,
+        "word": "Framework",
+        "definition": "A basic structure underlying a system or concept.",
+        "vietnamese": "Khung; cơ cấu nền tảng của một hệ thống hoặc khái niệm",
+        "example": "The new curriculum was built on a framework of critical thinking and problem solving."
+    },
+    {
+        "id": 217,
+        "word": "Uncanny",
+        "definition": "Strange or mysterious, especially in an unsettling way.",
+        "vietnamese": "Kỳ lạ; bí ẩn; đáng lo ngại theo cách khó giải thích",
+        "example": "She had an uncanny ability to predict what would happen before it occurred."
+    },
+    {
+        "id": 218,
+        "word": "Complacent",
+        "definition": "Self-satisfied and unconcerned, often to a fault.",
+        "vietnamese": "Tự mãn; chủ quan; quá hài lòng với bản thân đến mức lơ là",
+        "example": "Teams that become complacent after early success often fail to maintain their lead."
+    },
+    {
+        "id": 219,
+        "word": "Erratic",
+        "definition": "Unpredictable or irregular in behavior or movement.",
+        "vietnamese": "Thất thường; không đều đặn; khó đoán trong hành vi",
+        "example": "His erratic driving alarmed the other motorists on the highway."
+    },
+    {
+        "id": 220,
+        "word": "Impartial",
+        "definition": "Fair and unbiased.",
+        "vietnamese": "Công bằng; không thiên vị; vô tư",
+        "example": "A judge must remain impartial throughout all proceedings regardless of personal views."
+    },
+    {
+        "id": 221,
+        "word": "Vigilance",
+        "definition": "Careful watchfulness for danger or problems.",
+        "vietnamese": "Sự cảnh giác; chú ý quan sát đề phòng nguy hiểm",
+        "example": "Constant vigilance is necessary to protect computer systems from cyber attacks."
+    },
+    {
+        "id": 222,
+        "word": "Deliberation",
+        "definition": "Careful consideration or discussion before making a decision.",
+        "vietnamese": "Sự cân nhắc kỹ lưỡng; thảo luận trước khi quyết định",
+        "example": "After hours of deliberation, the jury reached a unanimous verdict."
+    },
+    {
+        "id": 223,
+        "word": "Cynical",
+        "definition": "Distrustful of others' motives; believing people act only out of selfishness.",
+        "vietnamese": "Hoài nghi; không tin vào động cơ của người khác; cho rằng mọi người đều ích kỷ",
+        "example": "Years of broken promises had made her cynical about political reform."
+    },
+    {
+        "id": 224,
+        "word": "Counterproductive",
+        "definition": "Having the opposite effect of what is intended.",
+        "vietnamese": "Phản tác dụng; gây ra kết quả ngược lại với mục đích",
+        "example": "Punishing children too harshly can be counterproductive, encouraging rebellion rather than compliance."
+    },
+    {
+        "id": 225,
+        "word": "Implicit",
+        "definition": "Implied though not directly expressed.",
+        "vietnamese": "Ngầm hiểu; được ám chỉ mà không nói ra trực tiếp",
+        "example": "There was an implicit agreement between the two colleagues not to discuss the matter publicly."
+    },
+    {
+        "id": 226,
+        "word": "Indisputable",
+        "definition": "Unable to be challenged or denied.",
+        "vietnamese": "Không thể tranh cãi; hiển nhiên; chắc chắn đúng",
+        "example": "The scientific evidence for climate change is now considered indisputable."
+    },
+    {
+        "id": 227,
+        "word": "Enigmatic",
+        "definition": "Mysterious or difficult to understand.",
+        "vietnamese": "Bí ẩn; khó hiểu; mang tính đố mị",
+        "example": "The Mona Lisa's enigmatic smile has fascinated viewers for centuries."
+    },
+    {
+        "id": 228,
+        "word": "Venerable",
+        "definition": "Deserving respect because of age, wisdom, or character.",
+        "vietnamese": "Đáng kính; đáng tôn trọng vì tuổi tác, trí tuệ hoặc phẩm cách",
+        "example": "The venerable professor had trained generations of scholars during her long career."
+    },
+    {
+        "id": 229,
+        "word": "Inexplicable",
+        "definition": "Unable to be explained or understood.",
+        "vietnamese": "Không thể giải thích; không thể hiểu được",
+        "example": "For no inexplicable reason, the engine stopped working perfectly just before the race."
+    },
+    {
+        "id": 230,
+        "word": "Enthralling",
+        "definition": "Capturing and holding one's attention completely.",
+        "vietnamese": "Cuốn hút mạnh mẽ; hấp dẫn đến mức không thể rời mắt",
+        "example": "The enthralling performance kept the entire audience on the edge of their seats."
+    },
+    {
+        "id": 231,
+        "word": "Menacing",
+        "definition": "Threatening or suggesting danger.",
+        "vietnamese": "Đe dọa; gợi lên cảm giác nguy hiểm",
+        "example": "Dark storm clouds gathered in a menacing formation on the horizon."
+    },
+    {
+        "id": 232,
+        "word": "Resolute",
+        "definition": "Determined and unwavering.",
+        "vietnamese": "Kiên quyết; kiên định; không dao động",
+        "example": "Despite the criticism she faced, she remained resolute in her decision to pursue reform."
+    },
+    {
+        "id": 233,
+        "word": "Supersede",
+        "definition": "To replace something older or less effective.",
+        "vietnamese": "Thay thế; thế chỗ điều gì đó cũ hoặc kém hiệu quả hơn",
+        "example": "Electric vehicles are expected to eventually supersede gasoline-powered cars."
+    },
+    {
+        "id": 234,
+        "word": "Ameliorate",
+        "definition": "To improve or make better.",
+        "vietnamese": "Cải thiện; làm tốt hơn; làm giảm bớt vấn đề",
+        "example": "New housing policies were introduced to ameliorate the living conditions of the poor."
+    },
+    {
+        "id": 235,
+        "word": "Aversion",
+        "definition": "A strong dislike or opposition to something.",
+        "vietnamese": "Sự ghét; ác cảm mạnh mẽ đối với điều gì đó",
+        "example": "She had a lifelong aversion to spiders that made hiking in forests challenging."
+    },
+    {
+        "id": 236,
+        "word": "Ineffectual",
+        "definition": "Not producing the desired effect.",
+        "vietnamese": "Không hiệu quả; không đạt được kết quả mong muốn",
+        "example": "The ineffectual treatment failed to stop the spread of the disease."
+    },
+    {
+        "id": 237,
+        "word": "Overshadow",
+        "definition": "To appear more important or noticeable than something else.",
+        "vietnamese": "Che khuất; làm lu mờ; trở nên nổi bật hơn điều khác",
+        "example": "Her outstanding performance overshadowed all other contributions at the event."
+    },
+    {
+        "id": 238,
+        "word": "Substantiate",
+        "definition": "To provide evidence to support a claim.",
+        "vietnamese": "Chứng minh; cung cấp bằng chứng xác nhận một tuyên bố",
+        "example": "The lawyer worked hard to substantiate her client's alibi with credible witnesses."
+    },
+    {
+        "id": 239,
+        "word": "Entail",
+        "definition": "To involve or require as a necessary part.",
+        "vietnamese": "Đòi hỏi; kéo theo; bao gồm như là một phần cần thiết",
+        "example": "Taking on the leadership role entails a significant increase in responsibilities."
+    },
+    {
+        "id": 240,
+        "word": "Hamper",
+        "definition": "To hinder or obstruct progress.",
+        "vietnamese": "Cản trở; gây khó khăn; ngăn cản tiến trình",
+        "example": "Poor communication between departments hampered the company's ability to meet deadlines."
+    },
+    {
+        "id": 241,
+        "word": "Underscore",
+        "definition": "To emphasize or highlight something.",
+        "vietnamese": "Nhấn mạnh; làm nổi bật điều gì đó",
+        "example": "The data underscores the urgent need for investment in renewable energy."
+    },
+    {
+        "id": 242,
+        "word": "Superfluous",
+        "definition": "Unnecessary or excessive.",
+        "vietnamese": "Thừa thãi; không cần thiết; quá mức",
+        "example": "She removed the superfluous details from her essay to make it more focused."
+    },
+    {
+        "id": 243,
+        "word": "Dissipate",
+        "definition": "To scatter or disappear gradually.",
+        "vietnamese": "Tan biến; phân tán; tiêu tan dần dần",
+        "example": "The morning fog began to dissipate as the sun climbed higher in the sky."
+    },
+    {
+        "id": 244,
+        "word": "Suppress",
+        "definition": "To put an end to or prevent something.",
+        "vietnamese": "Dập tắt; ngăn chặn; kiềm chế",
+        "example": "The government moved to suppress dissent by controlling the media."
+    },
+    {
+        "id": 245,
+        "word": "Implausible",
+        "definition": "Not believable or likely.",
+        "vietnamese": "Không đáng tin; khó có khả năng xảy ra; thiếu thuyết phục",
+        "example": "The witness gave an implausible account that contradicted the physical evidence."
+    },
+    {
+        "id": 246,
+        "word": "Idiosyncratic",
+        "definition": "Peculiar to an individual; distinctive.",
+        "vietnamese": "Đặc thù của cá nhân; kỳ quặc theo cách riêng biệt",
+        "example": "Each chef has an idiosyncratic way of preparing dishes that reflects their personality."
+    },
+    {
+        "id": 247,
+        "word": "Allude",
+        "definition": "To refer indirectly to something.",
+        "vietnamese": "Ám chỉ; đề cập gián tiếp đến điều gì đó",
+        "example": "The speech alluded to past struggles without naming any specific incident."
+    },
+    {
+        "id": 248,
+        "word": "Inextricable",
+        "definition": "Impossible to separate or escape from.",
+        "vietnamese": "Không thể tách rời; không thể thoát khỏi",
+        "example": "Language and culture are inextricable — one shapes and defines the other."
+    },
+    {
+        "id": 249,
+        "word": "Subvert",
+        "definition": "To undermine or overthrow.",
+        "vietnamese": "Lật đổ; phá hoại từ bên trong; làm suy yếu",
+        "example": "The rebels sought to subvert the established government through propaganda campaigns."
+    },
+    {
+        "id": 250,
+        "word": "Replicate",
+        "definition": "To copy or reproduce exactly.",
+        "vietnamese": "Tái tạo; sao chép chính xác; tái hiện",
+        "example": "Scientists replicated the experiment multiple times to confirm the results."
+    },
+    {
+        "id": 251,
+        "word": "Appease",
+        "definition": "To calm or satisfy, often by giving in to demands.",
+        "vietnamese": "Xoa dịu; làm hài lòng bằng cách nhượng bộ",
+        "example": "The manager tried to appease unhappy customers with discounts and apologies."
+    },
+    {
+        "id": 252,
+        "word": "Confound",
+        "definition": "To confuse or perplex someone.",
+        "vietnamese": "Làm bối rối; gây nhầm lẫn; làm khó hiểu",
+        "example": "The magician's trick confounded even the most attentive members of the audience."
+    },
+    {
+        "id": 253,
+        "word": "Persist",
+        "definition": "To continue firmly or obstinately despite difficulty.",
+        "vietnamese": "Kiên trì; tiếp tục dù có khó khăn; bền vững",
+        "example": "She persisted in her research despite receiving little funding and support."
+    },
+    {
+        "id": 254,
+        "word": "Adept",
+        "definition": "Skilled or proficient in doing something.",
+        "vietnamese": "Thành thạo; có kỹ năng cao; giỏi giang",
+        "example": "She is adept at navigating complex negotiations and finding mutually beneficial outcomes."
+    },
+    {
+        "id": 255,
+        "word": "Disseminate",
+        "definition": "To spread or distribute widely.",
+        "vietnamese": "Phổ biến; truyền bá; lan rộng thông tin",
+        "example": "Social media platforms make it easy to disseminate information to millions of people instantly."
+    },
+    {
+        "id": 256,
+        "word": "Circumvent",
+        "definition": "To find a way around an obstacle or rule.",
+        "vietnamese": "Lách qua; né tránh; tìm cách vượt qua rào cản",
+        "example": "Some companies try to circumvent environmental regulations by operating offshore."
+    },
+    {
+        "id": 257,
+        "word": "Assuage",
+        "definition": "To make an unpleasant feeling less intense.",
+        "vietnamese": "Xoa dịu; làm giảm bớt cảm giác khó chịu",
+        "example": "He tried to assuage her fears by explaining the procedure step by step."
+    },
+    {
+        "id": 258,
+        "word": "Convey",
+        "definition": "To communicate or make known.",
+        "vietnamese": "Truyền đạt; thể hiện; làm cho người khác hiểu",
+        "example": "A good writer can convey complex emotions with just a few carefully chosen words."
+    },
+    {
+        "id": 259,
+        "word": "Amplify",
+        "definition": "To increase in strength or volume.",
+        "vietnamese": "Khuếch đại; tăng cường; mở rộng",
+        "example": "The speaker's microphone amplified his voice so the entire crowd could hear clearly."
+    },
+    {
+        "id": 260,
+        "word": "Denounce",
+        "definition": "To publicly condemn or criticize.",
+        "vietnamese": "Lên án công khai; tố cáo; phê phán gay gắt trước công chúng",
+        "example": "Several human rights groups denounced the new law as an attack on civil liberties."
+    },
+    {
+        "id": 261,
+        "word": "Nullify",
+        "definition": "To make legally invalid or cancel out.",
+        "vietnamese": "Làm vô hiệu; hủy bỏ hiệu lực pháp lý",
+        "example": "The court ruling nullified the contract, freeing both parties from their obligations."
+    },
+    {
+        "id": 262,
+        "word": "Denigrate",
+        "definition": "To criticize unfairly or belittle.",
+        "vietnamese": "Hạ thấp; bôi nhọ; phê bình một cách bất công",
+        "example": "He was known to denigrate his competitors rather than promoting his own strengths."
+    },
+    {
+        "id": 263,
+        "word": "Arcane",
+        "definition": "Known or understood by few; mysterious.",
+        "vietnamese": "Bí truyền; khó hiểu; chỉ người trong nghề mới biết",
+        "example": "The professor specialized in the arcane rules of medieval contract law."
+    },
+    {
+        "id": 264,
+        "word": "Defunct",
+        "definition": "No longer existing or functioning.",
+        "vietnamese": "Đã không còn tồn tại; không còn hoạt động",
+        "example": "The defunct airline left thousands of passengers stranded when it shut down overnight."
+    },
+    {
+        "id": 265,
+        "word": "Ubiquitous",
+        "definition": "Present everywhere at the same time.",
+        "vietnamese": "Có mặt khắp nơi; phổ biến rộng rãi",
+        "example": "Smartphones have become ubiquitous in modern society, appearing in every pocket and purse."
+    },
+    {
+        "id": 266,
+        "word": "Disparage",
+        "definition": "To speak slightly of; to belittle.",
+        "vietnamese": "Coi thường; nói xấu; hạ thấp giá trị của người khác",
+        "example": "It is unprofessional to disparage former employers during a job interview."
+    },
+    {
+        "id": 267,
+        "word": "Outstrip",
+        "definition": "To surpass or exceed.",
+        "vietnamese": "Vượt qua; vượt trội hơn",
+        "example": "Demand for electric vehicles has begun to outstrip the available supply."
+    },
+    {
+        "id": 268,
+        "word": "Intangible",
+        "definition": "Unable to be touched or physically measured; abstract.",
+        "vietnamese": "Vô hình; không thể đo lường vật lý; trừu tượng",
+        "example": "The company's greatest assets were intangible ones like its brand reputation and loyal customers."
+    },
+    {
+        "id": 269,
+        "word": "Deference",
+        "definition": "Respectful submission or yielding to the judgment of another.",
+        "vietnamese": "Sự tôn trọng; phục tùng lịch sự ý kiến hoặc quyết định của người khác",
+        "example": "In deference to the elder's experience, the team accepted her suggestion without debate."
+    },
+    {
+        "id": 270,
+        "word": "Insurmountable",
+        "definition": "Impossible to overcome.",
+        "vietnamese": "Không thể vượt qua; không có cách giải quyết",
+        "example": "What seemed like insurmountable difficulties eventually gave way to breakthrough solutions."
+    },
+    {
+        "id": 271,
+        "word": "Augment",
+        "definition": "To make larger or increase.",
+        "vietnamese": "Tăng thêm; mở rộng; bổ sung thêm",
+        "example": "She augmented her income by taking on freelance writing projects on weekends."
+    },
+    {
+        "id": 272,
+        "word": "Spurious",
+        "definition": "False or not genuine.",
+        "vietnamese": "Giả mạo; không chính thống; không xác thực",
+        "example": "The report was based on spurious data that had been manipulated to support a particular conclusion."
+    },
+    {
+        "id": 273,
+        "word": "Scrupulous",
+        "definition": "Very careful and precise; morally honest.",
+        "vietnamese": "Tỉ mỉ; cẩn trọng; liêm chính về mặt đạo đức",
+        "example": "A scrupulous scientist records all results accurately, even those that disprove their hypothesis."
+    },
+    {
+        "id": 274,
+        "word": "Palpable",
+        "definition": "Able to be touched or felt; obvious.",
+        "vietnamese": "Rõ ràng; có thể cảm nhận được; sờ mó được hoặc dễ nhận thấy",
+        "example": "The tension in the room was palpable as the results were about to be announced."
+    },
+    {
+        "id": 275,
+        "word": "Contentious",
+        "definition": "Causing or likely to cause disagreement.",
+        "vietnamese": "Gây tranh cãi; dễ gây bất đồng",
+        "example": "Immigration policy remains one of the most contentious issues in modern politics."
+    },
+    {
+        "id": 276,
+        "word": "Arduous",
+        "definition": "Requiring great effort; difficult.",
+        "vietnamese": "Gian khổ; đòi hỏi nhiều nỗ lực; khó khăn vất vả",
+        "example": "The arduous climb up the mountain tested every member of the expedition team."
+    },
+    {
+        "id": 277,
+        "word": "Conjecture",
+        "definition": "An opinion or conclusion formed without complete evidence.",
+        "vietnamese": "Phỏng đoán; kết luận không có đủ bằng chứng",
+        "example": "Without more data, any claim about the cause of the disease remains mere conjecture."
+    },
+    {
+        "id": 278,
+        "word": "Ambivalent",
+        "definition": "Having mixed or contradictory feelings.",
+        "vietnamese": "Lưỡng lự; có cảm xúc trái chiều hoặc mâu thuẫn",
+        "example": "She felt ambivalent about moving abroad — excited by the opportunity but sad to leave her family."
+    },
+    {
+        "id": 279,
+        "word": "Efficacy",
+        "definition": "Effectiveness in producing a desired result.",
+        "vietnamese": "Hiệu quả; năng lực đạt được kết quả mong muốn",
+        "example": "Clinical trials are conducted to test the efficacy of new treatments before they are approved."
+    },
+    {
+        "id": 280,
+        "word": "Sporadic",
+        "definition": "Occurring irregularly or occasionally.",
+        "vietnamese": "Không đều đặn; thỉnh thoảng mới xảy ra; rải rác",
+        "example": "There were sporadic outbreaks of violence throughout the ceasefire period."
+    },
+    {
+        "id": 281,
+        "word": "Validate",
+        "definition": "To confirm or support the truth or value of something.",
+        "vietnamese": "Xác nhận; xác thực; kiểm chứng",
+        "example": "Independent tests were run to validate the claims made by the product's manufacturer."
+    },
+    {
+        "id": 282,
+        "word": "Desultory",
+        "definition": "Lacking a plan or purpose; random.",
+        "vietnamese": "Thiếu mục đích; tản mạn; không có kế hoạch",
+        "example": "He made only desultory attempts to study, resulting in poor exam performance."
+    },
+    {
+        "id": 283,
+        "word": "Recalcitrant",
+        "definition": "Stubbornly resisting authority or control.",
+        "vietnamese": "Ngoan cố; bướng bỉnh; kháng cự mệnh lệnh",
+        "example": "The recalcitrant student refused to follow the classroom rules despite repeated warnings."
+    },
+    {
+        "id": 284,
+        "word": "Sanguine",
+        "definition": "Optimistic or positive, especially in a difficult situation.",
+        "vietnamese": "Lạc quan; tích cực dù trong hoàn cảnh khó khăn",
+        "example": "Despite the setbacks, she remained sanguine about the project's eventual success."
+    },
+    {
+        "id": 285,
+        "word": "Exorbitant",
+        "definition": "Unreasonably high (price or demand).",
+        "vietnamese": "Quá đắt; quá mức; vượt ngoài giới hạn hợp lý",
+        "example": "The exorbitant rent in the city center forced many young professionals to move to the suburbs."
+    },
+    {
+        "id": 286,
+        "word": "Discretion",
+        "definition": "The quality of behaving or speaking in a careful, prudent way.",
+        "vietnamese": "Sự thận trọng; biết giữ bí mật; khéo léo trong lời nói và hành động",
+        "example": "The doctor handled the sensitive information with the utmost discretion."
+    },
+    {
+        "id": 287,
+        "word": "Ambiguity",
+        "definition": "The quality of being open to more than one interpretation.",
+        "vietnamese": "Sự mơ hồ; tính nước đôi; có thể hiểu theo nhiều cách",
+        "example": "The ambiguity in the contract's wording led to a lengthy legal dispute."
+    },
+    {
+        "id": 288,
+        "word": "Subside",
+        "definition": "To become less intense or severe.",
+        "vietnamese": "Lắng xuống; dịu bớt; giảm cường độ",
+        "example": "The pain gradually subsided after she took the prescribed medication."
+    },
+    {
+        "id": 289,
+        "word": "Converge",
+        "definition": "To come together from different directions.",
+        "vietnamese": "Hội tụ; cùng tiến về một điểm từ nhiều hướng khác nhau",
+        "example": "Thousands of fans converged on the stadium hours before the match began."
+    },
+    {
+        "id": 290,
+        "word": "Equitable",
+        "definition": "Fair and impartial.",
+        "vietnamese": "Công bằng; không thiên vị; hợp lý cho mọi người",
+        "example": "The mediator proposed an equitable distribution of the company's assets among all shareholders."
+    },
+    {
+        "id": 291,
+        "word": "Contemplate",
+        "definition": "To think about deeply or carefully.",
+        "vietnamese": "Suy ngẫm; chiêm nghiệm; suy xét sâu sắc",
+        "example": "She sat quietly to contemplate her next career move after receiving two job offers."
+    },
+    {
+        "id": 292,
+        "word": "Extricate",
+        "definition": "To free or remove from a difficult situation.",
+        "vietnamese": "Giải thoát; thoát khỏi tình huống khó khăn",
+        "example": "It took years of negotiation to extricate the company from its contractual obligations."
+    },
+    {
+        "id": 293,
+        "word": "Hindsight",
+        "definition": "Understanding of a situation after it has happened.",
+        "vietnamese": "Nhìn lại; sự hiểu biết rõ ràng sau khi sự việc đã xảy ra",
+        "example": "In hindsight, they realized that better preparation would have prevented the crisis."
+    },
+    {
+        "id": 294,
+        "word": "Harbinger",
+        "definition": "A sign or warning of something to come.",
+        "vietnamese": "Điềm báo; dấu hiệu báo trước điều sắp xảy ra",
+        "example": "The arrival of migratory birds is a harbinger of the changing seasons."
+    },
+    {
+        "id": 295,
+        "word": "Exemplar",
+        "definition": "A perfect example or model.",
+        "vietnamese": "Hình mẫu; ví dụ điển hình; khuôn mẫu hoàn hảo",
+        "example": "She was held up as an exemplar of professionalism and dedication within the organization."
+    },
+    {
+        "id": 296,
+        "word": "Sanction",
+        "definition": "Official permission or approval; or a penalty for disobedience.",
+        "vietnamese": "Sự chấp thuận chính thức; hoặc hình phạt vì vi phạm",
+        "example": "The UN imposed economic sanctions on the country for violating international agreements."
+    },
+    {
+        "id": 297,
+        "word": "Circumspection",
+        "definition": "Cautious observation or consideration before acting.",
+        "vietnamese": "Sự thận trọng; xem xét cẩn thận trước khi hành động",
+        "example": "Given the risks involved, circumspection was essential before making any investment decisions."
+    },
+    {
+        "id": 298,
+        "word": "Attrition",
+        "definition": "Gradual reduction or weakening.",
+        "vietnamese": "Sự hao mòn dần; sự giảm sút theo thời gian",
+        "example": "The company relied on natural attrition rather than layoffs to reduce its workforce."
+    },
+    {
+        "id": 299,
+        "word": "Amass",
+        "definition": "To gather or collect a large amount.",
+        "vietnamese": "Tích lũy; thu gom; tập hợp số lượng lớn",
+        "example": "Over the decades, she amassed a remarkable collection of rare first-edition books."
+    },
+    {
+        "id": 300,
+        "word": "Evince",
+        "definition": "To show clearly or demonstrate.",
+        "vietnamese": "Thể hiện rõ ràng; biểu lộ; chứng tỏ",
+        "example": "His actions evinced a deep commitment to the cause he had championed for years."
+    },
+    {
+        "id": 301,
+        "word": "Belie",
+        "definition": "To give a false impression or contradict.",
+        "vietnamese": "Phủ nhận; che giấu thực tế; gây ấn tượng sai lệch",
+        "example": "Her calm expression belied the anxiety she felt just before taking the stage."
+    },
+    {
+        "id": 302,
+        "word": "Subtlety",
+        "definition": "The quality of being delicate or precise; a fine distinction.",
+        "vietnamese": "Sự tinh tế; sự khéo léo; sự phân biệt tinh vi",
+        "example": "The subtlety of her humor was often missed by those unfamiliar with the cultural references."
+    },
+    {
+        "id": 303,
+        "word": "Entice",
+        "definition": "To attract or tempt.",
+        "vietnamese": "Cám dỗ; thu hút; lôi cuốn",
+        "example": "The store enticed customers with a huge sale on popular electronics."
+    },
+    {
+        "id": 304,
+        "word": "Perceptible",
+        "definition": "Able to be seen or noticed.",
+        "vietnamese": "Có thể nhận thấy; có thể cảm nhận hoặc quan sát được",
+        "example": "There was a perceptible shift in tone after the manager entered the room."
+    },
+    {
+        "id": 305,
+        "word": "Permissible",
+        "definition": "Allowed or permitted.",
+        "vietnamese": "Được cho phép; hợp lệ theo quy định",
+        "example": "The use of calculators is permissible during this portion of the exam."
+    },
+    {
+        "id": 306,
+        "word": "Forestall",
+        "definition": "To prevent or delay something by taking action ahead of time.",
+        "vietnamese": "Ngăn chặn trước; phòng ngừa bằng cách hành động sớm",
+        "example": "She sent a preemptive email to forestall any misunderstandings about her intentions."
+    },
+    {
+        "id": 307,
+        "word": "Authentic",
+        "definition": "Genuine or real.",
+        "vietnamese": "Chính hãng; xác thực; có nguồn gốc thật sự",
+        "example": "The museum confirmed that the painting was authentic after careful analysis."
+    },
+    {
+        "id": 308,
+        "word": "Epitomize",
+        "definition": "To be a perfect example of something.",
+        "vietnamese": "Là hình mẫu tiêu biểu; đại diện hoàn hảo cho điều gì đó",
+        "example": "Her tireless work ethic epitomizes the dedication required to succeed in medicine."
+    },
+    {
+        "id": 309,
+        "word": "Elicit",
+        "definition": "To draw out a response or reaction.",
+        "vietnamese": "Gợi ra; kéo ra; khơi dậy phản ứng hoặc câu trả lời",
+        "example": "The teacher used open-ended questions to elicit thoughtful responses from her students."
+    },
+    {
+        "id": 310,
+        "word": "Hallmark",
+        "definition": "A distinguishing characteristic or feature.",
+        "vietnamese": "Đặc điểm nhận dạng; dấu hiệu đặc trưng",
+        "example": "Attention to detail is the hallmark of a truly skilled craftsperson."
+    },
+    {
+        "id": 311,
+        "word": "Perfunctory",
+        "definition": "Done without enthusiasm or thoroughness.",
+        "vietnamese": "Qua loa; hời hợt; làm cho có lệ",
+        "example": "He gave a perfunctory nod to the idea without actually committing to it."
+    },
+    {
+        "id": 312,
+        "word": "Viable",
+        "definition": "Capable of working successfully.",
+        "vietnamese": "Khả thi; có thể thực hiện được và thành công",
+        "example": "The committee evaluated which proposals were financially viable before proceeding."
+    },
+    {
+        "id": 313,
+        "word": "Renounce",
+        "definition": "To give up or reject formally.",
+        "vietnamese": "Từ bỏ; tuyên bố từ chối chính thức",
+        "example": "He renounced his citizenship to avoid paying taxes in his home country."
+    },
+    {
+        "id": 314,
+        "word": "Interchangeable",
+        "definition": "Able to be exchanged or replaced.",
+        "vietnamese": "Có thể hoán đổi; thay thế lẫn nhau",
+        "example": "The two terms are often used as if interchangeable, but they have distinct meanings."
+    },
+    {
+        "id": 315,
+        "word": "Emblematic",
+        "definition": "Serving as a symbol.",
+        "vietnamese": "Mang tính biểu tượng; đại diện cho điều gì đó",
+        "example": "The bald eagle is emblematic of strength and freedom in American culture."
+    },
+    {
+        "id": 316,
+        "word": "Ambiguous",
+        "definition": "Unclear or having multiple meanings.",
+        "vietnamese": "Mơ hồ; không rõ ràng; có nhiều nghĩa",
+        "example": "The politician gave an ambiguous answer that satisfied neither side of the debate."
+    },
+    {
+        "id": 317,
+        "word": "Inhibit",
+        "definition": "To hold back or restrain.",
+        "vietnamese": "Ức chế; kiềm chế; ngăn cản",
+        "example": "Fear of failure can inhibit creativity and the willingness to take risks."
+    },
+    {
+        "id": 318,
+        "word": "Evade",
+        "definition": "To escape or avoid.",
+        "vietnamese": "Tránh né; lẩn trốn; né tránh",
+        "example": "The thief managed to evade capture for several weeks before being caught."
+    },
+    {
+        "id": 319,
+        "word": "Enumerate",
+        "definition": "To list one by one.",
+        "vietnamese": "Liệt kê từng cái một; đếm và kể ra",
+        "example": "The report enumerated the specific steps needed to reduce carbon emissions."
+    },
+    {
+        "id": 320,
+        "word": "Abridge",
+        "definition": "To shorten a text without losing the sense.",
+        "vietnamese": "Rút gọn; tóm tắt văn bản mà không mất ý chính",
+        "example": "The publisher decided to abridge the lengthy novel for a younger audience."
+    },
+    {
+        "id": 321,
+        "word": "Surpass",
+        "definition": "To go beyond or exceed.",
+        "vietnamese": "Vượt qua; vượt trội; hơn hẳn",
+        "example": "The athlete surpassed the world record by nearly two seconds."
+    },
+    {
+        "id": 322,
+        "word": "Encapsulate",
+        "definition": "To summarize or enclose in a capsule.",
+        "vietnamese": "Tóm gọn; đóng gói; tổng kết trong một không gian nhỏ",
+        "example": "The opening sentence of the essay encapsulates the author's main argument beautifully."
+    },
+    {
+        "id": 323,
+        "word": "Curtail",
+        "definition": "To reduce or cut short.",
+        "vietnamese": "Cắt giảm; rút ngắn; hạn chế",
+        "example": "The budget crisis forced the government to curtail spending on public services."
+    },
+    {
+        "id": 324,
+        "word": "Fortitude",
+        "definition": "Courage in pain or adversity.",
+        "vietnamese": "Lòng can đảm; kiên cường trước khó khăn và đau đớn",
+        "example": "She showed remarkable fortitude in continuing her research despite numerous personal setbacks."
+    },
+    {
+        "id": 325,
+        "word": "Nonchalance",
+        "definition": "Casual lack of concern; indifference.",
+        "vietnamese": "Thái độ bình thản; sự thờ ơ nhẹ nhàng; vô lo",
+        "example": "He accepted the award with an air of nonchalance that surprised many in the audience."
+    },
+    {
+        "id": 326,
+        "word": "Dearth",
+        "definition": "A scarcity or lack of something.",
+        "vietnamese": "Sự thiếu hụt; khan hiếm; sự thiếu thốn",
+        "example": "There is a dearth of affordable housing in many major cities worldwide."
+    },
+    {
+        "id": 327,
+        "word": "Dissonance",
+        "definition": "Lack of harmony or agreement; conflict.",
+        "vietnamese": "Sự bất hòa; thiếu thống nhất; xung đột",
+        "example": "The cognitive dissonance of preaching honesty while lying created obvious stress for him."
+    },
+    {
+        "id": 328,
+        "word": "Diminish",
+        "definition": "To make or become smaller or less.",
+        "vietnamese": "Giảm bớt; thu nhỏ; làm yếu đi",
+        "example": "His influence in the organization gradually diminished as newer leaders emerged."
+    },
+    {
+        "id": 329,
+        "word": "Anomalous",
+        "definition": "Deviating from what is standard or expected; abnormal.",
+        "vietnamese": "Bất thường; lệch khỏi chuẩn mực; dị thường",
+        "example": "The anomalous reading in the data prompted scientists to repeat the experiment."
+    },
+    {
+        "id": 330,
+        "word": "Distort",
+        "definition": "To twist out of shape or misrepresent.",
+        "vietnamese": "Bóp méo; làm biến dạng; xuyên tạc",
+        "example": "The media was accused of distorting the facts to make the story more sensational."
+    },
+    {
+        "id": 331,
+        "word": "Induce",
+        "definition": "To cause or bring about.",
+        "vietnamese": "Gây ra; tạo ra; khuyến khích điều gì đó xảy ra",
+        "example": "The doctor prescribed medication to induce sleep in the insomniac patient."
+    },
+    {
+        "id": 332,
+        "word": "Decouple",
+        "definition": "To separate or disengage.",
+        "vietnamese": "Tách rời; ngắt kết nối; giải phóng khỏi sự phụ thuộc",
+        "example": "Economists debated whether it was possible to decouple economic growth from carbon emissions."
+    },
+    {
+        "id": 333,
+        "word": "Mediate",
+        "definition": "To intervene to resolve a dispute.",
+        "vietnamese": "Hòa giải; làm trung gian để giải quyết tranh chấp",
+        "example": "A neutral third party was brought in to mediate between the two opposing factions."
+    },
+    {
+        "id": 334,
+        "word": "Impede",
+        "definition": "To hinder or obstruct.",
+        "vietnamese": "Cản trở; gây trở ngại; làm khó khăn tiến trình",
+        "example": "Bureaucratic red tape often impedes innovation and slows down business development."
+    },
+    {
+        "id": 335,
+        "word": "Elasticity",
+        "definition": "The ability to return to original shape after stretching; flexibility.",
+        "vietnamese": "Tính đàn hồi; khả năng trở về hình dạng ban đầu; sự linh hoạt",
+        "example": "The elasticity of demand determines how consumers react to price changes."
+    },
+    {
+        "id": 336,
+        "word": "Reciprocity",
+        "definition": "Mutual exchange or cooperation.",
+        "vietnamese": "Sự đáp lại qua lại; trao đổi tương hỗ; hợp tác hai chiều",
+        "example": "Trade agreements are based on the principle of reciprocity between partnering countries."
+    },
+    {
+        "id": 337,
+        "word": "Cohesion",
+        "definition": "The act of sticking together or unity.",
+        "vietnamese": "Sự gắn kết; tính thống nhất; liên kết chặt chẽ",
+        "example": "Team cohesion is essential for achieving consistent performance in competitive sports."
+    },
+    {
+        "id": 338,
+        "word": "Rigor",
+        "definition": "Strictness, severity, or thoroughness.",
+        "vietnamese": "Sự nghiêm ngặt; tính chặt chẽ; độ kỹ lưỡng cao",
+        "example": "Academic rigor ensures that research findings are reliable and reproducible."
+    },
+    {
+        "id": 339,
+        "word": "Novelty",
+        "definition": "The quality of being new or unusual.",
+        "vietnamese": "Tính mới lạ; sự độc đáo; điều chưa từng thấy",
+        "example": "The novelty of the concept attracted a lot of media attention in its early days."
+    },
+    {
+        "id": 340,
+        "word": "Dynamic",
+        "definition": "Characterized by constant change or activity.",
+        "vietnamese": "Năng động; không ngừng thay đổi và phát triển; sinh động",
+        "example": "The tech industry is one of the most dynamic sectors of the global economy."
+    },
+    {
+        "id": 341,
+        "word": "Immutable",
+        "definition": "Unchangeable over time.",
+        "vietnamese": "Bất biến; không thể thay đổi theo thời gian",
+        "example": "Some philosophers argue that moral principles are immutable, regardless of cultural context."
+    },
+    {
+        "id": 342,
+        "word": "Sustainable",
+        "definition": "Able to be maintained over time without depletion.",
+        "vietnamese": "Bền vững; có thể duy trì lâu dài mà không cạn kiệt tài nguyên",
+        "example": "The company committed to using only sustainable materials in its manufacturing process."
+    },
+    {
+        "id": 343,
+        "word": "Visionary",
+        "definition": "Having clear, original ideas about the future.",
+        "vietnamese": "Có tầm nhìn xa; người tiên phong với những ý tưởng mới về tương lai",
+        "example": "The visionary entrepreneur imagined a world where clean energy replaced fossil fuels."
+    },
+    {
+        "id": 344,
+        "word": "Resolution",
+        "definition": "A firm decision or solution to a problem.",
+        "vietnamese": "Quyết tâm; nghị quyết; giải pháp cho vấn đề",
+        "example": "The new year inspired her to make a resolution to exercise at least three times a week."
+    },
+    {
+        "id": 345,
+        "word": "Provocative",
+        "definition": "Causing strong reaction or stimulating thought.",
+        "vietnamese": "Khiêu khích; gây phản ứng mạnh; kích thích suy nghĩ",
+        "example": "The documentary raised provocative questions about the ethics of artificial intelligence."
+    },
+    {
+        "id": 346,
+        "word": "Irrefutable",
+        "definition": "Impossible to deny or disprove.",
+        "vietnamese": "Không thể bác bỏ; chắc chắn đúng; không thể phủ nhận",
+        "example": "She presented irrefutable evidence that cleared her client of all wrongdoing."
+    },
+    {
+        "id": 347,
+        "word": "Amalgamate",
+        "definition": "To combine or unite into one.",
+        "vietnamese": "Hợp nhất; kết hợp thành một; sáp nhập",
+        "example": "The two rival newspapers amalgamated to form a single publication."
+    },
+    {
+        "id": 348,
+        "word": "Promulgate",
+        "definition": "To officially announce or make known.",
+        "vietnamese": "Ban hành; công bố chính thức; tuyên truyền rộng rãi",
+        "example": "The government promulgated new regulations governing the use of personal data."
+    },
+    {
+        "id": 349,
+        "word": "Consolidate",
+        "definition": "To combine into a more effective or coherent whole.",
+        "vietnamese": "Củng cố; hợp nhất; kết hợp thành khối vững chắc hơn",
+        "example": "The merger helped the company consolidate its position in the global market."
+    },
+    {
+        "id": 350,
+        "word": "Feasible",
+        "definition": "Possible to do easily or conveniently.",
+        "vietnamese": "Khả thi; có thể thực hiện được một cách thuận tiện",
+        "example": "Engineers assessed whether a tunnel under the river would be technically feasible."
+    },
+    {
+        "id": 351,
+        "word": "Decisiveness",
+        "definition": "The ability to make decisions quickly and firmly.",
+        "vietnamese": "Tính quyết đoán; khả năng ra quyết định nhanh chóng và dứt khoát",
+        "example": "In times of crisis, decisiveness is more valuable than prolonged deliberation."
+    },
+    {
+        "id": 352,
+        "word": "Decry",
+        "definition": "To publicly denounce or criticize.",
+        "vietnamese": "Phê phán công khai; lên tiếng chỉ trích",
+        "example": "Critics decried the policy as harmful to the long-term health of the economy."
+    },
+    {
+        "id": 353,
+        "word": "Inertia",
+        "definition": "Resistance to change in motion or condition.",
+        "vietnamese": "Quán tính; sức ì; kháng cự sự thay đổi",
+        "example": "Organizational inertia often prevents companies from adapting to rapid market changes."
+    },
+    {
+        "id": 354,
+        "word": "Expediency",
+        "definition": "The quality of being convenient and practical despite possibly being improper.",
+        "vietnamese": "Tính tiện lợi thực tế dù có thể không hoàn toàn đúng đắn",
+        "example": "He chose expediency over principle when he accepted the compromise agreement."
+    },
+    {
+        "id": 355,
+        "word": "Fecundity",
+        "definition": "Fertility or ability to produce abundantly.",
+        "vietnamese": "Khả năng sinh sản dồi dào; năng suất cao; sự phong phú",
+        "example": "The fecundity of the soil in the valley made it ideal for growing a variety of crops."
+    },
+    {
+        "id": 356,
+        "word": "Expedite",
+        "definition": "To speed up or facilitate.",
+        "vietnamese": "Đẩy nhanh; xúc tiến; tạo điều kiện nhanh hơn",
+        "example": "She called the manager to expedite the processing of her visa application."
+    },
+    {
+        "id": 357,
+        "word": "Considerate",
+        "definition": "Showing concern for others' feelings.",
+        "vietnamese": "Chu đáo; quan tâm đến cảm xúc của người khác; tế nhị",
+        "example": "Being considerate of others' time means arriving punctually to meetings."
+    },
+    {
+        "id": 358,
+        "word": "Coordinate",
+        "definition": "To organize so parts work together effectively.",
+        "vietnamese": "Phối hợp; tổ chức để các bộ phận hoạt động hiệu quả cùng nhau",
+        "example": "The event director coordinated efforts across multiple departments to ensure a smooth ceremony."
+    },
+    {
+        "id": 359,
+        "word": "Impugn",
+        "definition": "To challenge or attack as false or questionable.",
+        "vietnamese": "Bác bỏ; nghi ngờ; tấn công tính xác thực",
+        "example": "The lawyer tried to impugn the witness's credibility with evidence of past dishonesty."
+    },
+    {
+        "id": 360,
+        "word": "Superfluous",
+        "definition": "Unnecessary or excessive.",
+        "vietnamese": "Thừa thãi; không cần thiết",
+        "example": "She removed superfluous details to make the report more concise."
+    },
+    {
+        "id": 361,
+        "word": "Inversion",
+        "definition": "The reversal of the normal order of things.",
+        "vietnamese": "Sự đảo ngược; đảo trật tự thông thường",
+        "example": "The poem uses inversion of syntax to create a dramatic effect."
+    },
+    {
+        "id": 362,
+        "word": "Retroactively",
+        "definition": "Applying to a period in the past.",
+        "vietnamese": "Hồi tố; áp dụng ngược về quá khứ",
+        "example": "The new tax law was applied retroactively to income earned the previous year."
+    },
+    {
+        "id": 363,
+        "word": "Terminate",
+        "definition": "To bring to an end.",
+        "vietnamese": "Chấm dứt; kết thúc; đình chỉ",
+        "example": "The company decided to terminate the contract due to repeated violations."
+    },
+    {
+        "id": 364,
+        "word": "Recur",
+        "definition": "To happen again or repeatedly.",
+        "vietnamese": "Tái diễn; xảy ra lại; lặp lại",
+        "example": "The nightmare recurred every night for a week after the traumatic event."
+    },
+    {
+        "id": 365,
+        "word": "Unflattering",
+        "definition": "Making someone or something look bad.",
+        "vietnamese": "Không tâng bốc; làm xấu đi; không có lợi cho hình ảnh",
+        "example": "The unflattering portrait drew laughter from the crowd at the gallery opening."
+    },
+    {
+        "id": 366,
+        "word": "Imprecise",
+        "definition": "Not exact or accurate.",
+        "vietnamese": "Không chính xác; mơ hồ; thiếu độ chính xác",
+        "example": "His imprecise use of language caused misunderstandings among the team."
+    },
+    {
+        "id": 367,
+        "word": "Bypass",
+        "definition": "To go around or avoid something.",
+        "vietnamese": "Bỏ qua; đi vòng; né tránh",
+        "example": "The new highway was built to bypass the congested city center."
+    },
+    {
+        "id": 368,
+        "word": "Accidental",
+        "definition": "Happening by chance, not planned.",
+        "vietnamese": "Vô tình; ngẫu nhiên; không cố ý",
+        "example": "The discovery of penicillin was largely accidental, made during a routine experiment."
+    },
+    {
+        "id": 369,
+        "word": "Unmistakable",
+        "definition": "Clearly recognizable or obvious.",
+        "vietnamese": "Không thể nhầm lẫn; rõ ràng dứt khoát",
+        "example": "There was an unmistakable smell of smoke coming from the building."
+    },
+    {
+        "id": 370,
+        "word": "Attribute",
+        "definition": "A quality or characteristic; also to credit something to a cause.",
+        "vietnamese": "Đặc điểm; thuộc tính; quy cho nguyên nhân nào đó",
+        "example": "Her success was attributed to years of disciplined practice and hard work."
+    },
+    {
+        "id": 371,
+        "word": "Entrust",
+        "definition": "To give responsibility or care to someone.",
+        "vietnamese": "Giao phó; tin tưởng trao cho ai đó trách nhiệm",
+        "example": "She entrusted her most sensitive documents to her most reliable assistant."
+    },
+    {
+        "id": 372,
+        "word": "Presaged",
+        "definition": "Indicated or warned of beforehand.",
+        "vietnamese": "Báo trước; tiên đoán; là điềm báo của",
+        "example": "The dark clouds presaged a violent storm later that evening."
+    },
+    {
+        "id": 373,
+        "word": "Incongruous",
+        "definition": "Not in harmony or fitting with.",
+        "vietnamese": "Không hài hòa; không phù hợp; kỳ lạ so với xung quanh",
+        "example": "The modern glass skyscraper looked incongruous among the ancient stone buildings."
+    },
+    {
+        "id": 374,
+        "word": "Breadth",
+        "definition": "The wide range or extent of something.",
+        "vietnamese": "Chiều rộng; phạm vi rộng; độ bao quát",
+        "example": "The breadth of her knowledge impressed even the most senior professors at the university."
+    },
+    {
+        "id": 375,
+        "word": "Apathy",
+        "definition": "Lack of interest or concern about something.",
+        "vietnamese": "Sự thờ ơ; thiếu quan tâm; bàng quan",
+        "example": "Voter apathy is a serious challenge for democratic participation in many countries."
+    },
+    {
+        "id": 376,
+        "word": "Indoctrinate",
+        "definition": "To teach someone to accept a set of beliefs uncritically.",
+        "vietnamese": "Nhồi nhét tư tưởng; áp đặt niềm tin mà không khuyến khích phê phán",
+        "example": "Critics accused the regime of indoctrinating children through state-controlled education."
+    },
+    {
+        "id": 377,
+        "word": "Extraneous",
+        "definition": "Unrelated or irrelevant to a subject.",
+        "vietnamese": "Ngoài lề; không liên quan; không thuộc chủ đề",
+        "example": "The editor removed all extraneous material that distracted from the central argument."
+    },
+    {
+        "id": 378,
+        "word": "Pernicious",
+        "definition": "Causing harm or damage, often in a subtle or gradual way.",
+        "vietnamese": "Có hại; độc hại theo cách tinh vi hoặc từ từ",
+        "example": "The pernicious effects of misinformation can take years to undo."
+    },
+    {
+        "id": 379,
+        "word": "Expound",
+        "definition": "To explain or present in detail.",
+        "vietnamese": "Giải thích chi tiết; trình bày đầy đủ",
+        "example": "The professor expounded her theory for over an hour to the enthralled audience."
+    },
+    {
+        "id": 380,
+        "word": "Protract",
+        "definition": "To prolong or extend in time.",
+        "vietnamese": "Kéo dài; làm kéo dài hơn cần thiết",
+        "example": "The negotiations were protracted over several months with no clear resolution in sight."
+    },
+    {
+        "id": 381,
+        "word": "Permeate",
+        "definition": "To spread throughout or penetrate.",
+        "vietnamese": "Thấm vào; lan tràn khắp; xuyên suốt",
+        "example": "The smell of coffee permeated the entire office each morning."
+    },
+    {
+        "id": 382,
+        "word": "Elide",
+        "definition": "To omit or leave out, especially in speech or writing.",
+        "vietnamese": "Lược bỏ; bỏ qua; không đề cập đến",
+        "example": "In casual speech, people often elide certain syllables for the sake of speed."
+    },
+    {
+        "id": 383,
+        "word": "Dispassionate",
+        "definition": "Impartial, not influenced by strong emotion.",
+        "vietnamese": "Khách quan; không bị cảm xúc chi phối; vô tư lạnh lùng",
+        "example": "A dispassionate analysis of the data reveals that neither side was entirely correct."
+    },
+    {
+        "id": 384,
+        "word": "Variable",
+        "definition": "Likely to change; not consistent.",
+        "vietnamese": "Không ổn định; hay thay đổi; biến số",
+        "example": "Spring weather is highly variable, shifting from sunshine to storms within hours."
+    },
+    {
+        "id": 385,
+        "word": "Implement",
+        "definition": "To put into effect or carry out.",
+        "vietnamese": "Thực hiện; triển khai; áp dụng vào thực tế",
+        "example": "The school board voted to implement a new bilingual curriculum from next year."
+    },
+    {
+        "id": 386,
+        "word": "Proponent",
+        "definition": "A person who advocates or supports a cause.",
+        "vietnamese": "Người ủng hộ; người đề xướng; người bênh vực",
+        "example": "She has long been a proponent of universal healthcare for all citizens."
+    },
+    {
+        "id": 387,
+        "word": "Renew",
+        "definition": "To make something new again or restore.",
+        "vietnamese": "Gia hạn; làm mới; phục hồi",
+        "example": "They decided to renew their wedding vows on their 25th anniversary."
+    },
+    {
+        "id": 388,
+        "word": "Misconstruct",
+        "definition": "To interpret wrongly.",
+        "vietnamese": "Hiểu sai; diễn giải nhầm",
+        "example": "His words were misconstrued by the press as a threat rather than a warning."
+    },
+    {
+        "id": 389,
+        "word": "Ubiquitous",
+        "definition": "Present everywhere at the same time.",
+        "vietnamese": "Có mặt khắp nơi; phổ biến rộng rãi",
+        "example": "Mobile phones have become ubiquitous in both developed and developing nations."
+    },
+    {
+        "id": 390,
+        "word": "Compound",
+        "definition": "To make something worse by adding to it; also a mixture of elements.",
+        "vietnamese": "Làm phức tạp thêm; hợp chất; kết hợp nhiều yếu tố",
+        "example": "Missing several deadlines compounded the team's existing reputation problems."
+    },
+    {
+        "id": 391,
+        "word": "Stymie",
+        "definition": "To hinder or obstruct progress.",
+        "vietnamese": "Cản trở; ngăn chặn tiến độ",
+        "example": "Budget cuts stymied the research team's efforts to expand the study."
+    },
+    {
+        "id": 392,
+        "word": "Contingent",
+        "definition": "Dependent on certain conditions or events.",
+        "vietnamese": "Phụ thuộc vào điều kiện nhất định; có điều kiện",
+        "example": "The job offer was contingent on the successful completion of a background check."
+    },
+    {
+        "id": 393,
+        "word": "Obligated",
+        "definition": "Required or compelled to do something.",
+        "vietnamese": "Có nghĩa vụ; bị bắt buộc phải làm điều gì đó",
+        "example": "As a witness, she felt morally obligated to tell the truth in court."
+    },
+    {
+        "id": 394,
+        "word": "Inhibited",
+        "definition": "Held back or restrained by something.",
+        "vietnamese": "Bị kìm hãm; bị ức chế; bị kiềm chế",
+        "example": "She felt inhibited in large social gatherings but thrived in one-on-one conversations."
+    },
+    {
+        "id": 395,
+        "word": "Intangible",
+        "definition": "Unable to be touched or physically measured; abstract.",
+        "vietnamese": "Vô hình; không thể đo lường được; trừu tượng",
+        "example": "The company's brand loyalty is an intangible asset of enormous value."
+    },
+    {
+        "id": 396,
+        "word": "Explicable",
+        "definition": "Able to be explained.",
+        "vietnamese": "Có thể giải thích được; dễ hiểu",
+        "example": "His sudden change of mood was explicable once we learned what had happened."
+    },
+    {
+        "id": 397,
+        "word": "Reverentially",
+        "definition": "With deep respect or awe.",
+        "vietnamese": "Một cách tôn kính; với lòng kính sợ sâu sắc",
+        "example": "The students listened reverentially as the Nobel laureate spoke about her discoveries."
+    },
+    {
+        "id": 398,
+        "word": "Collaboration",
+        "definition": "Working together with others.",
+        "vietnamese": "Sự hợp tác; làm việc cùng nhau hướng đến mục tiêu chung",
+        "example": "The film was the result of a long collaboration between the director and composer."
+    },
+    {
+        "id": 399,
+        "word": "Overreach",
+        "definition": "To go beyond one's limits or authority.",
+        "vietnamese": "Vượt quá giới hạn; làm quá mức thẩm quyền",
+        "example": "The executive overreached his authority by signing contracts without board approval."
+    },
+    {
+        "id": 400,
+        "word": "Eclipse",
+        "definition": "To overshadow or surpass.",
+        "vietnamese": "Che khuất; vượt qua; làm mờ nhạt điều khác",
+        "example": "Her second novel eclipsed the success of her debut in both sales and critical acclaim."
+    },
+    {
+        "id": 401,
+        "word": "Spurious",
+        "definition": "False or not genuine.",
+        "vietnamese": "Giả mạo; không xác thực; thiếu căn cứ",
+        "example": "The court dismissed the spurious claims as having no factual basis whatsoever."
+    },
+    {
+        "id": 402,
+        "word": "Compulsory",
+        "definition": "Required or mandatory.",
+        "vietnamese": "Bắt buộc; cưỡng chế; không được từ chối",
+        "example": "Attendance at the safety briefing is compulsory for all new employees."
+    },
+    {
+        "id": 403,
+        "word": "Tranquil",
+        "definition": "Calm and peaceful.",
+        "vietnamese": "Yên tĩnh; bình thản; thanh bình",
+        "example": "The tranquil lake reflected the mountains perfectly on the still morning."
+    },
+    {
+        "id": 404,
+        "word": "Reprieve",
+        "definition": "A temporary relief from punishment or difficulty.",
+        "vietnamese": "Sự giảm nhẹ tạm thời; hoãn hình phạt; thở phào nhẹ nhõm",
+        "example": "The unexpected rain gave the exhausted hikers a welcome reprieve from the scorching heat."
+    },
+    {
+        "id": 405,
+        "word": "Imply",
+        "definition": "To suggest without stating directly.",
+        "vietnamese": "Ám chỉ; gợi ý; ngụ ý mà không nói thẳng",
+        "example": "Her silence implied that she was not happy with the decision."
+    },
+    {
+        "id": 406,
+        "word": "Inconclusive",
+        "definition": "Not leading to a firm conclusion.",
+        "vietnamese": "Không dứt khoát; chưa có kết luận rõ ràng",
+        "example": "The results of the study were inconclusive, requiring further investigation."
+    },
+    {
+        "id": 407,
+        "word": "Coalesce",
+        "definition": "To come together to form one whole.",
+        "vietnamese": "Hợp lại; kết hợp thành một khối thống nhất",
+        "example": "Small community groups coalesced into a powerful movement for local change."
+    },
+    {
+        "id": 408,
+        "word": "Enact",
+        "definition": "To make into law or put into action.",
+        "vietnamese": "Ban hành; thực thi; đưa vào luật hoặc hành động",
+        "example": "Congress enacted new legislation to regulate the use of social media platforms."
+    },
+    {
+        "id": 409,
+        "word": "Haphazard",
+        "definition": "Lacking order or planning; random.",
+        "vietnamese": "Lộn xộn; thiếu tổ chức; ngẫu nhiên không có kế hoạch",
+        "example": "The files were stored in a haphazard manner, making it nearly impossible to find anything."
+    },
+    {
+        "id": 410,
+        "word": "Substitute",
+        "definition": "To replace one thing with another.",
+        "vietnamese": "Thay thế; dùng thứ này thay cho thứ khác",
+        "example": "You can substitute honey for sugar in many baking recipes."
+    },
+    {
+        "id": 411,
+        "word": "Summation",
+        "definition": "A summary or conclusion.",
+        "vietnamese": "Tóm tắt; kết luận; tổng kết",
+        "example": "The lawyer's summation brilliantly reviewed all key evidence for the jury."
+    },
+    {
+        "id": 412,
+        "word": "Counterfactual",
+        "definition": "Relating to what did not happen; contrary to facts.",
+        "vietnamese": "Phản thực tế; giả thiết điều không xảy ra",
+        "example": "Historians often engage in counterfactual reasoning to understand pivotal historical decisions."
+    },
+    {
+        "id": 413,
+        "word": "Analogical",
+        "definition": "Based on analogy or comparison.",
+        "vietnamese": "Dựa trên sự tương đồng; mang tính so sánh",
+        "example": "The teacher used analogical reasoning to help students understand abstract concepts."
+    },
+    {
+        "id": 414,
+        "word": "Associative",
+        "definition": "Connected in the mind by relation or experience.",
+        "vietnamese": "Liên kết; mang tính liên tưởng; kết nối qua kinh nghiệm",
+        "example": "The smell of cinnamon triggered associative memories of childhood holidays."
+    },
+    {
+        "id": 415,
+        "word": "Precedent",
+        "definition": "An earlier event or decision that serves as a guide.",
+        "vietnamese": "Tiền lệ; sự kiện hoặc quyết định trước làm cơ sở tham khảo",
+        "example": "The landmark court ruling set a precedent for future cases involving digital privacy."
+    },
+    {
+        "id": 416,
+        "word": "Presuppose",
+        "definition": "To assume beforehand.",
+        "vietnamese": "Giả định trước; tiền đề cho rằng điều gì đó đã đúng",
+        "example": "The question presupposes that all students have equal access to technology."
+    },
+    {
+        "id": 417,
+        "word": "Notional",
+        "definition": "Existing as an idea or concept, not reality.",
+        "vietnamese": "Chỉ tồn tại trong ý niệm; mang tính lý thuyết; không thực tế",
+        "example": "The proposed budget was based on notional figures that had never been verified."
+    },
+    {
+        "id": 418,
+        "word": "Veritable",
+        "definition": "Used to emphasize truth or accuracy.",
+        "vietnamese": "Thực sự; đúng là; dùng để nhấn mạnh sự thật",
+        "example": "The new shopping mall was a veritable labyrinth of corridors and escalators."
+    },
+    {
+        "id": 419,
+        "word": "Earnest",
+        "definition": "Serious and sincere.",
+        "vietnamese": "Nghiêm túc; thành tâm; chân thành",
+        "example": "She made an earnest effort to understand his perspective before responding."
+    },
+    {
+        "id": 420,
+        "word": "Misanthropic",
+        "definition": "Having a dislike or distrust of humankind.",
+        "vietnamese": "Ghét con người; không tin tưởng nhân loại",
+        "example": "His misanthropic outlook led him to avoid social gatherings whenever possible."
+    },
+    {
+        "id": 421,
+        "word": "Disengage",
+        "definition": "To detach or separate.",
+        "vietnamese": "Rút ra; tách rời; ngắt kết nối",
+        "example": "It can be difficult to disengage from social media once you become accustomed to it."
+    },
+    {
+        "id": 422,
+        "word": "Demarcate",
+        "definition": "To set the boundaries or limits of something.",
+        "vietnamese": "Phân định ranh giới; vạch giới hạn",
+        "example": "The treaty clearly demarcated the border between the two nations."
+    },
+    {
+        "id": 423,
+        "word": "Conflate",
+        "definition": "To combine two or more things into one.",
+        "vietnamese": "Nhập lẫn; kết hợp hai điều khác nhau thành một",
+        "example": "Critics accused the journalist of conflating correlation with causation in the report."
+    },
+    {
+        "id": 424,
+        "word": "Concealment",
+        "definition": "The act of hiding something.",
+        "vietnamese": "Sự che giấu; hành động ẩn giấu điều gì đó",
+        "example": "The concealment of financial records was considered obstruction of justice."
+    },
+    {
+        "id": 425,
+        "word": "Rejuvenate",
+        "definition": "To make something look or feel younger or fresher.",
+        "vietnamese": "Làm trẻ hóa; phục hồi sức sống; làm tươi mới",
+        "example": "A week of rest and good food was enough to rejuvenate the exhausted traveler."
+    },
+    {
+        "id": 426,
+        "word": "Resolve",
+        "definition": "To find a solution or make a firm decision.",
+        "vietnamese": "Giải quyết; quyết tâm; tìm ra giải pháp dứt khoát",
+        "example": "The two countries resolved their territorial dispute through peaceful negotiation."
+    },
+    {
+        "id": 427,
+        "word": "Unattainable",
+        "definition": "Impossible to achieve or reach.",
+        "vietnamese": "Không thể đạt được; ngoài tầm với",
+        "example": "For many families, owning a home in the city has become virtually unattainable."
+    },
+    {
+        "id": 428,
+        "word": "Solidify",
+        "definition": "To make firm or stronger.",
+        "vietnamese": "Củng cố; làm vững chắc; đông cứng lại",
+        "example": "Winning the championship helped solidify the team's reputation as the best in the league."
+    },
+    {
+        "id": 429,
+        "word": "Acclaim",
+        "definition": "Enthusiastic and public praise.",
+        "vietnamese": "Hoan hô; lời khen ngợi công khai và nhiệt liệt",
+        "example": "The novel received widespread acclaim from critics and readers around the world."
+    },
+    {
+        "id": 430,
+        "word": "Default",
+        "definition": "Failure to fulfill an obligation; standard or automatic option.",
+        "vietnamese": "Vỡ nợ; tùy chọn mặc định; không hoàn thành nghĩa vụ",
+        "example": "The software opens in dark mode by default unless the user changes the settings."
+    },
+    {
+        "id": 431,
+        "word": "Sanction",
+        "definition": "Official permission or approval; or a penalty for disobedience.",
+        "vietnamese": "Chấp thuận chính thức; lệnh trừng phạt; hình phạt vì vi phạm",
+        "example": "Trade sanctions were imposed on the country after it violated international law."
+    },
+    {
+        "id": 432,
+        "word": "Incongruity",
+        "definition": "Something that does not fit or is out of place.",
+        "vietnamese": "Sự không ăn khớp; điều không phù hợp; mâu thuẫn",
+        "example": "The incongruity of wearing a tuxedo at a beach party drew many stares."
+    },
+    {
+        "id": 433,
+        "word": "Intercede",
+        "definition": "To intervene on behalf of someone.",
+        "vietnamese": "Can thiệp; làm trung gian bảo hộ ai đó",
+        "example": "She interceded on behalf of the junior employee who had been unfairly reprimanded."
+    },
+    {
+        "id": 434,
+        "word": "Concur",
+        "definition": "To agree with.",
+        "vietnamese": "Đồng ý; tán thành; có cùng quan điểm",
+        "example": "All committee members concurred that the proposal needed significant revision."
+    },
+    {
+        "id": 435,
+        "word": "Accumulate",
+        "definition": "To gather or build up gradually.",
+        "vietnamese": "Tích lũy; dần dần thu gom; chất chồng theo thời gian",
+        "example": "Dust accumulates quickly in rooms that are rarely cleaned."
+    },
+    {
+        "id": 436,
+        "word": "Isolate",
+        "definition": "To separate from others.",
+        "vietnamese": "Cô lập; tách biệt; phân cách khỏi môi trường xung quanh",
+        "example": "The patient was isolated to prevent the contagious illness from spreading further."
+    },
+    {
+        "id": 437,
+        "word": "Acquire",
+        "definition": "To obtain or gain possession of.",
+        "vietnamese": "Thu thập; đạt được; có được quyền sở hữu",
+        "example": "She acquired fluency in three languages through years of study and immersion."
+    },
+    {
+        "id": 438,
+        "word": "Sophistication",
+        "definition": "Complexity or refinement.",
+        "vietnamese": "Sự tinh tế; phức tạp; trình độ cao về văn hóa hoặc kỹ thuật",
+        "example": "The sophistication of the design impressed even experienced engineers."
+    },
+    {
+        "id": 439,
+        "word": "Envision",
+        "definition": "To imagine or picture in the mind.",
+        "vietnamese": "Hình dung; tưởng tượng; hình dung tương lai",
+        "example": "The architect envisioned a building that would blend seamlessly into the surrounding landscape."
+    },
+    {
+        "id": 440,
+        "word": "Dwindling",
+        "definition": "Gradually decreasing.",
+        "vietnamese": "Giảm dần; thu hẹp; ngày càng ít đi",
+        "example": "The dwindling population of monarch butterflies alarmed conservation scientists."
+    },
+    {
+        "id": 441,
+        "word": "Self-servingly",
+        "definition": "Acting in one's own interest.",
+        "vietnamese": "Vì lợi ích cá nhân; hành động để phục vụ bản thân",
+        "example": "He self-servingly interpreted the contract in a way that benefited only himself."
+    },
+    {
+        "id": 442,
+        "word": "Grudgingly",
+        "definition": "Reluctantly or unwillingly.",
+        "vietnamese": "Miễn cưỡng; bất đắc dĩ; không vui lòng nhưng vẫn làm",
+        "example": "He grudgingly admitted that his rival had performed better in the competition."
+    },
+    {
+        "id": 443,
+        "word": "Disfavor",
+        "definition": "Disapproval or dislike.",
+        "vietnamese": "Sự không tán thành; ghét bỏ; không được ưa",
+        "example": "The controversial proposal fell into disfavor after details of its costs were revealed."
+    },
+    {
+        "id": 444,
+        "word": "Understate",
+        "definition": "To present something as less important than it is.",
+        "vietnamese": "Nói nhẹ đi; đánh giá thấp; trình bày ít hơn thực tế",
+        "example": "To say the project was challenging would be to understate the enormous difficulties involved."
+    },
+    {
+        "id": 445,
+        "word": "Fraudulent",
+        "definition": "Dishonest or deceitful.",
+        "vietnamese": "Gian lận; lừa đảo; không trung thực",
+        "example": "The company was shut down after fraudulent accounting practices were uncovered."
+    },
+    {
+        "id": 446,
+        "word": "Presumptuous",
+        "definition": "Overstepping proper bounds; arrogant.",
+        "vietnamese": "Kiêu ngạo; lạm quyền; vượt quá giới hạn thích hợp",
+        "example": "It was presumptuous of him to assume he would be invited to lead the project."
+    },
+    {
+        "id": 447,
+        "word": "Bestow",
+        "definition": "To give as a gift or honor.",
+        "vietnamese": "Ban tặng; trao tặng; phong tặng như một vinh dự",
+        "example": "The university bestowed an honorary degree upon the celebrated humanitarian."
+    },
+    {
+        "id": 448,
+        "word": "Allocate",
+        "definition": "To distribute or assign resources or duties.",
+        "vietnamese": "Phân bổ; phân phối; giao nhiệm vụ hoặc tài nguyên",
+        "example": "The government allocated a large portion of the budget to healthcare and education."
+    },
+    {
+        "id": 449,
+        "word": "Epitomize",
+        "definition": "To be a perfect example of something.",
+        "vietnamese": "Là hình mẫu tiêu biểu; là điển hình của điều gì đó",
+        "example": "Her dedication to students epitomizes the spirit of truly great teaching."
+    },
+    {
+        "id": 450,
+        "word": "Exaggerate",
+        "definition": "To represent something as greater than it is.",
+        "vietnamese": "Phóng đại; cường điệu; trình bày quá mức thực tế",
+        "example": "News headlines often exaggerate minor events to attract more readers."
+    },
+    {
+        "id": 451,
+        "word": "Capitalize",
+        "definition": "To take advantage of an opportunity.",
+        "vietnamese": "Tận dụng cơ hội; khai thác lợi thế; viết hoa",
+        "example": "The startup capitalized on the surge in demand for remote working tools."
+    },
+    {
+        "id": 452,
+        "word": "Discredit",
+        "definition": "To harm the reputation of; to show as untrue.",
+        "vietnamese": "Làm mất uy tín; bác bỏ; chứng minh là sai",
+        "example": "The defendant's lawyer attempted to discredit the prosecution's key witness."
+    },
+    {
+        "id": 453,
+        "word": "Retrieve",
+        "definition": "To get something back.",
+        "vietnamese": "Lấy lại; khôi phục; tìm và mang về",
+        "example": "She retrieved the deleted files using a data recovery program."
+    },
+    {
+        "id": 454,
+        "word": "Integrate",
+        "definition": "To combine or bring together.",
+        "vietnamese": "Tích hợp; kết hợp; đưa vào một hệ thống thống nhất",
+        "example": "The new software integrates seamlessly with all existing company tools."
+    },
+    {
+        "id": 455,
+        "word": "Preserve",
+        "definition": "To keep safe from harm or decay.",
+        "vietnamese": "Bảo tồn; gìn giữ; ngăn không cho hư hại",
+        "example": "Efforts are underway to preserve the ancient manuscripts from further deterioration."
+    },
+    {
+        "id": 456,
+        "word": "Rationalize",
+        "definition": "To justify or explain logically.",
+        "vietnamese": "Hợp lý hóa; biện hộ; giải thích theo logic",
+        "example": "He rationalized his decision by focusing only on the potential benefits."
+    },
+    {
+        "id": 457,
+        "word": "Utopian",
+        "definition": "Idealistic and impractical.",
+        "vietnamese": "Không tưởng; lý tưởng nhưng không thực tế",
+        "example": "Critics dismissed the policy as utopian, arguing it ignored real-world constraints."
+    },
+    {
+        "id": 458,
+        "word": "Punitive",
+        "definition": "Intended as punishment.",
+        "vietnamese": "Mang tính trừng phạt; nhằm mục đích trừng trị",
+        "example": "The punitive damages awarded by the court sent a clear message to the industry."
+    },
+    {
+        "id": 459,
+        "word": "Defer",
+        "definition": "To postpone or delay.",
+        "vietnamese": "Trì hoãn; hoãn lại; để sau",
+        "example": "They decided to defer the major decision until more information was available."
+    },
+    {
+        "id": 460,
+        "word": "Displace",
+        "definition": "To take the place of something or someone.",
+        "vietnamese": "Thay thế; dịch chuyển; chiếm chỗ của người hoặc vật khác",
+        "example": "Automation has displaced many workers in the manufacturing sector."
+    },
+    {
+        "id": 461,
+        "word": "Interchangeable",
+        "definition": "Able to be exchanged or replaced.",
+        "vietnamese": "Có thể hoán đổi; thay thế lẫn nhau một cách dễ dàng",
+        "example": "The two components are interchangeable and can be used in either position."
+    },
+    {
+        "id": 462,
+        "word": "Subordinate",
+        "definition": "Lower in rank or position.",
+        "vietnamese": "Cấp dưới; thứ yếu; thuộc vị trí thấp hơn",
+        "example": "A good leader respects the ideas of subordinates rather than dismissing them."
+    },
+    {
+        "id": 463,
+        "word": "Catalyze",
+        "definition": "To cause or accelerate a reaction or change.",
+        "vietnamese": "Xúc tác; thúc đẩy; khởi phát sự thay đổi",
+        "example": "The viral video catalyzed a nationwide conversation about racial equality."
+    },
+    {
+        "id": 464,
+        "word": "Static",
+        "definition": "Lacking movement or change.",
+        "vietnamese": "Tĩnh; không thay đổi; cố định",
+        "example": "In a rapidly changing market, a static strategy is a recipe for failure."
+    },
+    {
+        "id": 465,
+        "word": "Immoderate",
+        "definition": "Excessive or extreme.",
+        "vietnamese": "Quá mức; cực đoan; không điều độ",
+        "example": "His immoderate consumption of sugar led to serious health problems later in life."
+    },
+    {
+        "id": 466,
+        "word": "Compress",
+        "definition": "To press or squeeze together.",
+        "vietnamese": "Nén lại; ép chặt; thu gọn",
+        "example": "The editor compressed the 10-minute speech into a 30-second highlight clip."
+    },
+    {
+        "id": 467,
+        "word": "Predicate",
+        "definition": "To base something on.",
+        "vietnamese": "Dựa vào; lấy làm nền tảng; khẳng định về",
+        "example": "The entire business model was predicated on the assumption of continued growth."
+    },
+    {
+        "id": 468,
+        "word": "Overcome",
+        "definition": "To successfully deal with or defeat.",
+        "vietnamese": "Vượt qua; khắc phục; chiến thắng khó khăn",
+        "example": "With persistence and support, she was able to overcome her fear of public speaking."
+    },
+    {
+        "id": 469,
+        "word": "Compel",
+        "definition": "To force or drive.",
+        "vietnamese": "Thúc ép; bắt buộc; thôi thúc mạnh mẽ",
+        "example": "The new evidence compelled the prosecutor to reconsider the charges."
+    },
+    {
+        "id": 470,
+        "word": "Impartiality",
+        "definition": "Fairness; lack of bias.",
+        "vietnamese": "Sự công bằng; không thiên vị; trung lập",
+        "example": "The commission was praised for its impartiality in handling the sensitive investigation."
+    },
+    {
+        "id": 471,
+        "word": "Substantial",
+        "definition": "Of considerable importance or size.",
+        "vietnamese": "Đáng kể; lớn về quy mô hoặc tầm quan trọng",
+        "example": "The new investment brought a substantial improvement in the company's financial position."
+    },
+    {
+        "id": 472,
+        "word": "Interrupt",
+        "definition": "To stop the continuous progress of something.",
+        "vietnamese": "Gián đoạn; ngắt quãng; làm gián đoạn tiến trình",
+        "example": "A sudden power outage interrupted the live broadcast at the most critical moment."
+    },
+    {
+        "id": 473,
+        "word": "Exceed",
+        "definition": "To go beyond a limit.",
+        "vietnamese": "Vượt quá; cao hơn; vượt giới hạn",
+        "example": "Her performance far exceeded even the most optimistic expectations."
+    },
+    {
+        "id": 474,
+        "word": "Categorize",
+        "definition": "To place in a category or group.",
+        "vietnamese": "Phân loại; xếp vào nhóm; phân nhóm",
+        "example": "It is difficult to categorize his music since it blends so many different genres."
+    },
+    {
+        "id": 475,
+        "word": "Perturbation",
+        "definition": "A disturbance or disruption.",
+        "vietnamese": "Sự xáo trộn; nhiễu loạn; bất ổn",
+        "example": "Even a small perturbation in the system caused significant downstream effects."
+    },
+    {
+        "id": 476,
+        "word": "Indolence",
+        "definition": "Avoidance of activity or exertion; laziness.",
+        "vietnamese": "Sự lười biếng; không muốn gắng sức; thụ động",
+        "example": "His indolence was the main reason he failed to complete the project on time."
+    },
+    {
+        "id": 477,
+        "word": "Abatement",
+        "definition": "Reduction or decrease.",
+        "vietnamese": "Sự giảm bớt; giảm thiểu; suy giảm",
+        "example": "The noise abatement policy restricted construction work during nighttime hours."
+    },
+    {
+        "id": 478,
+        "word": "Aggregation",
+        "definition": "A collection or gathering of things.",
+        "vietnamese": "Sự tập hợp; sự gom góp; tổng hợp từ nhiều nguồn",
+        "example": "The aggregation of small donations added up to a significant total."
+    },
+    {
+        "id": 479,
+        "word": "Remove",
+        "definition": "To take away or eliminate.",
+        "vietnamese": "Loại bỏ; xóa đi; lấy đi",
+        "example": "The new policy aimed to remove all unnecessary bureaucratic procedures."
+    },
+    {
+        "id": 480,
+        "word": "Unfold",
+        "definition": "To open or reveal something gradually.",
+        "vietnamese": "Mở ra; dần dần được hé lộ; diễn ra từng bước",
+        "example": "The full extent of the scandal only unfolded over the course of several months."
+    },
+    {
+        "id": 481,
+        "word": "Vary",
+        "definition": "To change or alter.",
+        "vietnamese": "Thay đổi; biến đổi; khác đi",
+        "example": "Prices vary significantly depending on the season and availability of materials."
+    },
+    {
+        "id": 482,
+        "word": "Measure",
+        "definition": "To assess or determine the size, amount, or degree of something.",
+        "vietnamese": "Đo lường; đánh giá; xác định kích thước hoặc mức độ",
+        "example": "Success should not be measured solely by financial gain."
+    },
+    {
+        "id": 483,
+        "word": "Coincidental",
+        "definition": "Happening by chance without apparent cause.",
+        "vietnamese": "Trùng hợp ngẫu nhiên; không có nguyên nhân rõ ràng",
+        "example": "Their meeting at the airport was purely coincidental — neither had known the other would be there."
+    },
+    {
+        "id": 484,
+        "word": "Distort",
+        "definition": "To twist out of shape or misrepresent.",
+        "vietnamese": "Bóp méo; làm biến dạng; xuyên tạc sự thật",
+        "example": "The politician accused the reporter of distorting his statements out of context."
+    },
+    {
+        "id": 485,
+        "word": "Neglect",
+        "definition": "Failure to care for properly.",
+        "vietnamese": "Xao lãng; bỏ bê; không chú ý chăm sóc đúng mức",
+        "example": "Neglect of basic maintenance caused the building to deteriorate rapidly."
+    },
+    {
+        "id": 486,
+        "word": "Supplement",
+        "definition": "Something added to complete or enhance.",
+        "vietnamese": "Bổ sung; thêm vào để hoàn chỉnh hoặc nâng cao",
+        "example": "She took vitamin D supplements to compensate for the lack of sunlight in winter."
+    },
+    {
+        "id": 487,
+        "word": "Induce",
+        "definition": "To cause or bring about.",
+        "vietnamese": "Kích thích; gây ra; thúc đẩy điều gì đó xảy ra",
+        "example": "The medication can induce drowsiness, so patients should avoid driving after taking it."
+    },
+    {
+        "id": 488,
+        "word": "Decouple",
+        "definition": "To separate or disengage.",
+        "vietnamese": "Tách biệt; giải phóng khỏi sự phụ thuộc lẫn nhau",
+        "example": "Economists are exploring ways to decouple economic growth from environmental damage."
+    },
+    {
+        "id": 489,
+        "word": "Perception",
+        "definition": "The way something is understood or interpreted.",
+        "vietnamese": "Nhận thức; sự nhận biết; cách hiểu và diễn giải",
+        "example": "Public perception of the company improved dramatically after the charity campaign."
+    },
+    {
+        "id": 490,
+        "word": "Identify",
+        "definition": "To recognize or establish as being.",
+        "vietnamese": "Nhận diện; xác định; xác nhận là ai hoặc cái gì",
+        "example": "Researchers identified several key factors contributing to the rise in chronic illness."
+    },
+    {
+        "id": 491,
+        "word": "Reveal",
+        "definition": "To make known or show.",
+        "vietnamese": "Tiết lộ; hé lộ; cho thấy điều trước đây ẩn giấu",
+        "example": "The audit revealed numerous irregularities in the organization's financial records."
+    },
+    {
+        "id": 492,
+        "word": "Elasticity",
+        "definition": "The ability to return to original shape after stretching; flexibility.",
+        "vietnamese": "Tính đàn hồi; khả năng phục hồi; sự linh hoạt",
+        "example": "The elasticity of the material allowed it to be stretched without tearing."
+    },
+    {
+        "id": 493,
+        "word": "Affection",
+        "definition": "A feeling of fondness or love.",
+        "vietnamese": "Tình cảm; lòng yêu thương; sự quý mến",
+        "example": "The children showed great affection toward the retired teacher who had mentored them."
+    },
+    {
+        "id": 494,
+        "word": "Warranted",
+        "definition": "Justified or deserved.",
+        "vietnamese": "Có lý do chính đáng; xứng đáng; được biện hộ",
+        "example": "Given the evidence, her concerns about safety were fully warranted."
+    },
+    {
+        "id": 495,
+        "word": "Obscurity",
+        "definition": "The state of being unknown or unclear.",
+        "vietnamese": "Sự vô danh; sự tối nghĩa; trạng thái không được biết đến",
+        "example": "The talented musician spent years in obscurity before being discovered."
+    },
+    {
+        "id": 496,
+        "word": "Shallowness",
+        "definition": "Lack of depth, either literal or figurative.",
+        "vietnamese": "Sự cạn cợt; thiếu chiều sâu; hời hợt",
+        "example": "Critics pointed to the shallowness of the film's characters as its main weakness."
+    },
+    {
+        "id": 497,
+        "word": "Dynamic",
+        "definition": "Characterized by constant change or activity.",
+        "vietnamese": "Năng động; đầy sức sống; không ngừng thay đổi",
+        "example": "A dynamic work environment encourages creativity and adaptability."
+    },
+    {
+        "id": 498,
+        "word": "Sustainable",
+        "definition": "Able to be maintained over time without depletion.",
+        "vietnamese": "Bền vững; có thể duy trì mà không làm cạn kiệt nguồn lực",
+        "example": "The company shifted to sustainable packaging to reduce its environmental footprint."
+    },
+    {
+        "id": 499,
+        "word": "Sarcastic",
+        "definition": "Using irony to mock or convey contempt.",
+        "vietnamese": "Mỉa mai; châm biếm; dùng lời nói bóng gió để chế giễu",
+        "example": "Her sarcastic remark about his 'brilliant idea' made it clear she disagreed."
+    },
+    {
+        "id": 500,
+        "word": "Outdated",
+        "definition": "Old-fashioned or obsolete.",
+        "vietnamese": "Lỗi thời; lạc hậu; không còn phù hợp nữa",
+        "example": "The outdated software was unable to support the new operating system's features."
+    },
+    {
+        "id": 501,
+        "word": "Resolution",
+        "definition": "A firm decision or solution to a problem.",
+        "vietnamese": "Nghị quyết; quyết tâm; giải pháp dứt khoát",
+        "example": "The UN passed a resolution calling for an immediate ceasefire."
+    },
+    {
+        "id": 502,
+        "word": "Justification",
+        "definition": "The reason or explanation for something.",
+        "vietnamese": "Sự biện hộ; lý do chính đáng; lời giải thích",
+        "example": "There was no justification for the aggressive response to a peaceful protest."
+    },
+    {
+        "id": 503,
+        "word": "Negotiation",
+        "definition": "Discussion aimed at reaching an agreement.",
+        "vietnamese": "Đàm phán; thương lượng; thảo luận để đi đến thỏa thuận",
+        "example": "Months of negotiation finally produced a trade deal acceptable to both nations."
+    },
+    {
+        "id": 504,
+        "word": "Reluctantly",
+        "definition": "Unwillingly or hesitantly.",
+        "vietnamese": "Miễn cưỡng; không sẵn lòng; do dự khi hành động",
+        "example": "He reluctantly agreed to take on the additional responsibilities."
+    },
+    {
+        "id": 505,
+        "word": "Nostalgic",
+        "definition": "Feeling sentimental longing for the past.",
+        "vietnamese": "Hoài niệm; nhớ về quá khứ với tình cảm trân trọng",
+        "example": "Old photographs always made her feel nostalgic for her childhood summers."
+    },
+    {
+        "id": 506,
+        "word": "Provocative",
+        "definition": "Causing strong reaction or stimulating thought.",
+        "vietnamese": "Khiêu khích; gây phản ứng mạnh; kích thích suy nghĩ",
+        "example": "The artist was known for provocative installations that challenged social norms."
+    },
+    {
+        "id": 507,
+        "word": "Amalgamate",
+        "definition": "To combine or unite into one.",
+        "vietnamese": "Sáp nhập; hợp nhất; kết hợp thành một thể",
+        "example": "Several smaller agencies amalgamated to form one powerful regulatory body."
+    },
+    {
+        "id": 508,
+        "word": "Promulgate",
+        "definition": "To officially announce or make known.",
+        "vietnamese": "Ban bố; công bố rộng rãi; tuyên truyền chính thức",
+        "example": "The king promulgated a new law granting greater freedom of the press."
+    },
+    {
+        "id": 509,
+        "word": "Consolidate",
+        "definition": "To combine into a more effective or coherent whole.",
+        "vietnamese": "Củng cố; sáp nhập; làm vững mạnh hơn bằng cách gộp lại",
+        "example": "The merger was intended to consolidate resources and reduce operational costs."
+    },
+    {
+        "id": 510,
+        "word": "Defy",
+        "definition": "To openly resist or refuse to obey.",
+        "vietnamese": "Thách thức; bất chấp; công khai không tuân theo",
+        "example": "She defied expectations by starting her own business at age sixty."
+    },
+    {
+        "id": 511,
+        "word": "Foretell",
+        "definition": "To predict or forecast.",
+        "vietnamese": "Tiên đoán; dự báo; nói trước điều sẽ xảy ra",
+        "example": "No economic model can perfectly foretell the timing of market crashes."
+    },
+    {
+        "id": 512,
+        "word": "Unfounded",
+        "definition": "Not based on fact or evidence.",
+        "vietnamese": "Không có căn cứ; không dựa trên sự thật hoặc bằng chứng",
+        "example": "The rumors about the company's collapse were entirely unfounded."
+    },
+    {
+        "id": 513,
+        "word": "Feasible",
+        "definition": "Possible to do easily or conveniently.",
+        "vietnamese": "Khả thi; có thể thực hiện một cách thuận tiện",
+        "example": "Given the timeline, it is not feasible to complete the entire project before the deadline."
+    },
+    {
+        "id": 514,
+        "word": "Decisiveness",
+        "definition": "The ability to make decisions quickly and firmly.",
+        "vietnamese": "Sự quyết đoán; khả năng ra quyết định nhanh và dứt khoát",
+        "example": "Decisiveness under pressure is one of the most valuable traits a leader can have."
+    },
+    {
+        "id": 515,
+        "word": "Concentrate",
+        "definition": "To focus all attention or effort on something.",
+        "vietnamese": "Tập trung; dồn toàn bộ sự chú ý hoặc nỗ lực vào điều gì đó",
+        "example": "Turn off your phone if you want to concentrate while studying."
+    },
+    {
+        "id": 516,
+        "word": "Decry",
+        "definition": "To publicly denounce or criticize.",
+        "vietnamese": "Lên án công khai; phê phán mạnh mẽ trước công chúng",
+        "example": "Activists decried the factory's pollution as unacceptable in a modern society."
+    },
+    {
+        "id": 517,
+        "word": "Facetious",
+        "definition": "Treating serious issues with inappropriate humor.",
+        "vietnamese": "Giỡn cợt không đúng lúc; xem nhẹ vấn đề nghiêm túc bằng hài hước",
+        "example": "His facetious comment during the memorial service offended many attendees."
+    },
+    {
+        "id": 518,
+        "word": "Inertia",
+        "definition": "Resistance to change in motion or condition.",
+        "vietnamese": "Quán tính; sức ì; kháng cự thay đổi",
+        "example": "The inertia of the bureaucracy made it nearly impossible to push through reforms."
+    },
+    {
+        "id": 519,
+        "word": "Expediency",
+        "definition": "The quality of being convenient and practical despite possibly being improper.",
+        "vietnamese": "Tính tiện lợi thực tế dù có thể không hoàn toàn đúng đắn về mặt đạo đức",
+        "example": "The decision was driven by political expediency rather than genuine concern."
+    },
+    {
+        "id": 520,
+        "word": "Fecundity",
+        "definition": "Fertility or ability to produce abundantly.",
+        "vietnamese": "Khả năng sinh sản dồi dào; sức sản xuất phong phú",
+        "example": "The poet was celebrated for the fecundity of his imagination."
+    },
+    {
+        "id": 521,
+        "word": "Expedite",
+        "definition": "To speed up or facilitate.",
+        "vietnamese": "Đẩy nhanh tiến độ; xúc tiến; tạo thuận lợi",
+        "example": "The government introduced new measures to expedite the processing of asylum claims."
+    },
+    {
+        "id": 522,
+        "word": "Apprentice",
+        "definition": "A person learning a trade from a skilled employer.",
+        "vietnamese": "Người học nghề; thực tập sinh đang học từ người có kinh nghiệm",
+        "example": "He began his career as an apprentice under a master carpenter."
+    },
+    {
+        "id": 523,
+        "word": "Coordinate",
+        "definition": "To organize so parts work together effectively.",
+        "vietnamese": "Phối hợp; tổ chức để các bộ phận hoạt động hiệu quả",
+        "example": "The team leader coordinated efforts across three different departments."
+    },
+    {
+        "id": 524,
+        "word": "Inexplicable",
+        "definition": "Impossible to explain or understand.",
+        "vietnamese": "Không thể giải thích; khó hiểu một cách kỳ lạ",
+        "example": "There was an inexplicable chill in the room despite the warm temperature outside."
+    },
+    {
+        "id": 525,
+        "word": "Considerate",
+        "definition": "Showing concern for others' feelings.",
+        "vietnamese": "Chu đáo; biết nghĩ đến cảm xúc của người khác",
+        "example": "A considerate neighbor keeps noise to a minimum during late-night hours."
+    },
+    {
+        "id": 526,
+        "word": "Perturbation",
+        "definition": "A disturbance or disruption.",
+        "vietnamese": "Sự nhiễu loạn; bất ổn; xáo trộn hệ thống",
+        "example": "Gravitational perturbations caused the satellite to drift slightly off course."
+    },
+    {
+        "id": 527,
+        "word": "Vigilance",
+        "definition": "Careful watchfulness for danger or problems.",
+        "vietnamese": "Sự cảnh giác cao độ; theo dõi cẩn thận để phát hiện nguy hiểm",
+        "example": "Airport security relies on constant vigilance to prevent potential threats."
+    },
+    {
+        "id": 528,
+        "word": "Deliberation",
+        "definition": "Careful consideration or discussion before making a decision.",
+        "vietnamese": "Thảo luận kỹ; suy xét thấu đáo trước khi quyết định",
+        "example": "The board entered three days of deliberation before announcing its choice."
+    },
+    {
+        "id": 529,
+        "word": "Multifarious",
+        "definition": "Having many different parts or forms.",
+        "vietnamese": "Đa dạng; nhiều hình thức; phức tạp với nhiều yếu tố khác nhau",
+        "example": "The multifarious demands of the job left him little time for personal pursuits."
+    },
+    {
+        "id": 530,
+        "word": "Inarticulate",
+        "definition": "Unable to express ideas clearly.",
+        "vietnamese": "Không diễn đạt rõ ràng; lúng túng khi nói; thiếu khả năng biểu đạt",
+        "example": "He was usually articulate but became inarticulate under intense pressure."
+    },
+    {
+        "id": 531,
+        "word": "Evasion",
+        "definition": "The act of avoiding something, especially by trickery.",
+        "vietnamese": "Sự né tránh; lẩn tránh trách nhiệm bằng thủ thuật",
+        "example": "His evasion of direct questions made investigators increasingly suspicious."
+    },
+    {
+        "id": 532,
+        "word": "Misunderstood",
+        "definition": "Wrongly interpreted or judged.",
+        "vietnamese": "Bị hiểu sai; bị đánh giá nhầm",
+        "example": "The policy was widely misunderstood because it was poorly communicated to the public."
+    },
+    {
+        "id": 533,
+        "word": "Humiliate",
+        "definition": "To cause someone to feel ashamed or embarrassed.",
+        "vietnamese": "Làm nhục; gây cảm giác xấu hổ hoặc bối rối cho ai đó",
+        "example": "It is wrong to humiliate someone publicly for making an honest mistake."
+    },
+    {
+        "id": 534,
+        "word": "Admission",
+        "definition": "The act of allowing entry or confessing something.",
+        "vietnamese": "Sự thừa nhận; cho phép vào; lời thú nhận",
+        "example": "His admission of guilt surprised even his closest allies."
+    },
+    {
+        "id": 535,
+        "word": "Reliant",
+        "definition": "Dependent on something or someone.",
+        "vietnamese": "Phụ thuộc vào; dựa dẫm vào ai đó hoặc điều gì đó",
+        "example": "The remote village was entirely reliant on a single road for supplies."
+    },
+    {
+        "id": 536,
+        "word": "Sensitivity",
+        "definition": "The quality of being easily affected or responsive.",
+        "vietnamese": "Độ nhạy cảm; dễ bị tác động; khả năng phản ứng",
+        "example": "Sensitivity to others' needs is a crucial quality for anyone in a caregiving role."
+    },
+    {
+        "id": 537,
+        "word": "Complimented",
+        "definition": "Praised or expressed approval of someone or something.",
+        "vietnamese": "Được khen ngợi; được bày tỏ sự tán thưởng",
+        "example": "The chef was complimented by every guest at the dinner for the exceptional meal."
+    },
+    {
+        "id": 538,
+        "word": "Reckless",
+        "definition": "Acting without care for consequences.",
+        "vietnamese": "Liều lĩnh; bất cẩn; không quan tâm đến hậu quả",
+        "example": "Reckless driving endangers not only the driver but everyone else on the road."
+    },
+    {
+        "id": 539,
+        "word": "Transpose",
+        "definition": "To change the position of two things.",
+        "vietnamese": "Hoán vị; đổi chỗ; chuyển từ vị trí này sang vị trí khác",
+        "example": "Accidentally transposing two digits caused a significant error in the bank transfer."
+    },
+    {
+        "id": 540,
+        "word": "Aberration",
+        "definition": "A deviation from what is normal or expected.",
+        "vietnamese": "Sai lệch; lệch chuẩn; điều bất thường so với thông thường",
+        "example": "Scientists considered the unusual weather pattern an aberration rather than a new trend."
+    },
+    {
+        "id": 541,
+        "word": "Extort",
+        "definition": "To obtain something by force or threats.",
+        "vietnamese": "Tống tiền; cưỡng đoạt; dùng áp lực để lấy điều gì đó",
+        "example": "The gang was arrested for attempting to extort money from local business owners."
+    },
+    {
+        "id": 542,
+        "word": "Subdue",
+        "definition": "To bring under control, often by force.",
+        "vietnamese": "Khuất phục; kiềm chế; đưa vào tầm kiểm soát",
+        "example": "Officers worked to subdue the situation before it escalated into violence."
+    },
+    {
+        "id": 543,
+        "word": "Ceremonially",
+        "definition": "Relating to formal events or rituals.",
+        "vietnamese": "Mang tính nghi lễ; theo nghi thức trang trọng",
+        "example": "The flag was ceremonially raised at dawn to mark the beginning of independence celebrations."
+    },
+    {
+        "id": 544,
+        "word": "Suppress",
+        "definition": "To put an end to or prevent something.",
+        "vietnamese": "Đàn áp; ngăn chặn; kìm hãm",
+        "example": "The regime sought to suppress any criticism of its policies through censorship."
+    },
+    {
+        "id": 545,
+        "word": "Idiosyncratic",
+        "definition": "Peculiar to an individual; distinctive.",
+        "vietnamese": "Đặc trưng cá nhân; mang nét kỳ quặc riêng biệt",
+        "example": "His idiosyncratic writing style set his novels apart from all other contemporary fiction."
+    },
+    {
+        "id": 546,
+        "word": "Inextricable",
+        "definition": "Impossible to separate or escape from.",
+        "vietnamese": "Không thể tách rời; không thể giải thoát",
+        "example": "Culture and identity are inextricably linked."
+    },
+    {
+        "id": 547,
+        "word": "Obsolete",
+        "definition": "No longer in use; outdated.",
+        "vietnamese": "Lỗi thời; đã lạc hậu; không còn được dùng nữa",
+        "example": "Cassette tapes became obsolete after the introduction of CDs and digital music."
+    },
+    {
+        "id": 548,
+        "word": "Scrutiny",
+        "definition": "Critical observation or examination.",
+        "vietnamese": "Sự xem xét kỹ lưỡng; kiểm tra nghiêm ngặt; giám sát chặt chẽ",
+        "example": "The government's spending plans came under intense scrutiny from opposition lawmakers."
+    },
+    {
+        "id": 549,
+        "word": "Proliferate",
+        "definition": "To increase rapidly in number.",
+        "vietnamese": "Sinh sôi nảy nở; gia tăng nhanh chóng về số lượng",
+        "example": "Social media platforms have proliferated to the point where most people use several simultaneously."
+    },
+    {
+        "id": 550,
+        "word": "Meticulous",
+        "definition": "Showing great attention to detail.",
+        "vietnamese": "Tỉ mỉ; cẩn thận từng chi tiết",
+        "example": "Her meticulous planning ensured the event went smoothly without a single problem."
+    },
+    {
+        "id": 551,
+        "word": "Innate",
+        "definition": "Inborn; natural; not learned.",
+        "vietnamese": "Bẩm sinh; tự nhiên; không cần học",
+        "example": "Some researchers believe that certain moral instincts are innate rather than taught."
+    },
+    {
+        "id": 552,
+        "word": "Condone",
+        "definition": "To accept or allow behavior considered wrong.",
+        "vietnamese": "Dung túng; cho phép điều được coi là sai",
+        "example": "The management refused to condone bullying in any form in the workplace."
+    },
+    {
+        "id": 553,
+        "word": "Lucid",
+        "definition": "Expressed clearly; easy to understand.",
+        "vietnamese": "Rõ ràng; dễ hiểu; sáng suốt",
+        "example": "Her lucid explanation made even the most complex topic accessible to beginners."
+    },
+    {
+        "id": 554,
+        "word": "Pragmatic",
+        "definition": "Dealing with things sensibly and realistically.",
+        "vietnamese": "Thực dụng; thiết thực; tiếp cận vấn đề một cách thực tế",
+        "example": "A pragmatic approach to the crisis focused on what could realistically be achieved."
+    },
+    {
+        "id": 555,
+        "word": "Tenacious",
+        "definition": "Holding firmly to something; persistent.",
+        "vietnamese": "Kiên trì; bám chặt; bền bỉ không từ bỏ",
+        "example": "Her tenacious pursuit of justice kept the case alive for over a decade."
+    },
+    {
+        "id": 556,
+        "word": "Ambivalence",
+        "definition": "Having mixed feelings or contradictory ideas.",
+        "vietnamese": "Cảm xúc lưỡng lự; mâu thuẫn trong suy nghĩ hoặc cảm xúc",
+        "example": "His ambivalence about the job offer made it hard for him to give a clear answer."
+    },
+    {
+        "id": 557,
+        "word": "Stagnant",
+        "definition": "Not flowing or moving; showing no activity.",
+        "vietnamese": "Đình trệ; trì trệ; không tiến triển",
+        "example": "The economy remained stagnant for years despite repeated government interventions."
+    },
+    {
+        "id": 558,
+        "word": "Corrosive",
+        "definition": "Gradually destroying something; damaging over time.",
+        "vietnamese": "Ăn mòn; phá hủy dần dần; có hại lâu dài",
+        "example": "The corrosive effects of cynicism can slowly erode team morale."
+    },
+    {
+        "id": 559,
+        "word": "Flourish",
+        "definition": "To grow or develop in a healthy way; to thrive.",
+        "vietnamese": "Phát triển rực rỡ; hưng thịnh; phát triển mạnh mẽ",
+        "example": "Small businesses flourish when they receive adequate support from local governments."
+    },
+    {
+        "id": 560,
+        "word": "Diligent",
+        "definition": "Having or showing care and conscientiousness in one's work.",
+        "vietnamese": "Chăm chỉ; cần mẫn; tận tâm trong công việc",
+        "example": "The diligent student spent hours reviewing her notes before every exam."
+    },
+    {
+        "id": 561,
+        "word": "Exemplify",
+        "definition": "To be a typical example of something.",
+        "vietnamese": "Minh họa; là ví dụ điển hình; tiêu biểu cho điều gì đó",
+        "example": "Her career exemplifies the determination needed to succeed in a competitive field."
+    },
+    {
+        "id": 562,
+        "word": "Detrimental",
+        "definition": "Tending to cause harm or damage.",
+        "vietnamese": "Có hại; gây tổn hại; bất lợi",
+        "example": "A lack of sleep is detrimental to both cognitive performance and physical health."
+    },
+    {
+        "id": 563,
+        "word": "Acknowledge",
+        "definition": "To accept or admit the existence of something.",
+        "vietnamese": "Thừa nhận; công nhận; chấp nhận sự tồn tại của điều gì đó",
+        "example": "It takes courage to acknowledge one's own mistakes openly and without excuses."
+    },
+    {
+        "id": 564,
+        "word": "Nuanced",
+        "definition": "Having subtle distinctions or slight variations.",
+        "vietnamese": "Có sắc thái; tinh tế; thể hiện sự khác biệt nhỏ nhưng quan trọng",
+        "example": "A nuanced reading of the text reveals layers of meaning not apparent at first glance."
+    },
+    {
+        "id": 565,
+        "word": "Paramount",
+        "definition": "More important than anything else; supreme.",
+        "vietnamese": "Tối quan trọng; hàng đầu; vượt trội hơn tất cả",
+        "example": "Patient safety must be paramount in every decision made by healthcare providers."
+    },
+    {
+        "id": 566,
+        "word": "Ambiguous",
+        "definition": "Open to more than one interpretation.",
+        "vietnamese": "Mơ hồ; không rõ ràng; có thể hiểu theo nhiều cách",
+        "example": "The contract's ambiguous language led to a prolonged legal dispute."
+    },
+    {
+        "id": 567,
+        "word": "Conjecture",
+        "definition": "An opinion without sufficient evidence.",
+        "vietnamese": "Phỏng đoán; suy đoán thiếu bằng chứng",
+        "example": "Without more data, scientists could only conjecture about the cause of the anomaly."
+    },
+    {
+        "id": 568,
+        "word": "Mitigate",
+        "definition": "To lessen the gravity or severity of something.",
+        "vietnamese": "Giảm nhẹ mức độ nghiêm trọng; xoa dịu",
+        "example": "Planting trees in urban areas can help mitigate the effects of air pollution."
+    },
+    {
+        "id": 569,
+        "word": "Proliferation",
+        "definition": "Rapid increase in number or amount.",
+        "vietnamese": "Sự gia tăng nhanh chóng; sự phổ biến rộng rãi",
+        "example": "The proliferation of misinformation online poses a major challenge for journalists."
+    },
+    {
+        "id": 570,
+        "word": "Scrutinize",
+        "definition": "To examine closely and thoroughly.",
+        "vietnamese": "Xem xét kỹ lưỡng; kiểm tra chi tiết; phân tích tỉ mỉ",
+        "example": "Every clause in the agreement was scrutinized by a team of expert lawyers."
+    },
+    {
+        "id": 571,
+        "word": "Alleviate",
+        "definition": "To make something less severe; to relieve.",
+        "vietnamese": "Làm giảm bớt; xoa dịu; giảm nhẹ gánh nặng hoặc đau khổ",
+        "example": "New pain-management techniques have helped alleviate suffering for millions of patients."
+    },
+    {
+        "id": 572,
+        "word": "Coherent",
+        "definition": "Logical and well-organized; easy to understand.",
+        "vietnamese": "Mạch lạc; nhất quán; rõ ràng và có tổ chức",
+        "example": "A coherent argument is built on clear logic and well-supported evidence."
+    },
+    {
+        "id": 573,
+        "word": "Precipitate",
+        "definition": "To cause something to happen suddenly or prematurely.",
+        "vietnamese": "Gây ra đột ngột; đẩy nhanh; làm xảy ra sớm hơn dự kiến",
+        "example": "The announcement precipitated a sharp drop in the company's stock price."
+    },
+    {
+        "id": 574,
+        "word": "Negligible",
+        "definition": "So small or unimportant as to be not worth considering.",
+        "vietnamese": "Không đáng kể; quá nhỏ để quan tâm; tầm thường",
+        "example": "The additional cost was negligible compared to the benefits the upgrade would bring."
+    },
+    {
+        "id": 575,
+        "word": "Propagate",
+        "definition": "To spread or promote widely.",
+        "vietnamese": "Truyền bá; lan truyền; phổ biến rộng rãi",
+        "example": "Social media can rapidly propagate both accurate information and dangerous myths."
+    },
+    {
+        "id": 576,
+        "word": "Arbitrary",
+        "definition": "Based on random choice rather than reason or system.",
+        "vietnamese": "Tùy tiện; ngẫu hứng; không dựa trên lý do hay hệ thống",
+        "example": "The rules seemed arbitrary, with no clear logic behind them."
+    },
+    {
+        "id": 577,
+        "word": "Innumerable",
+        "definition": "Too many to be counted; countless.",
+        "vietnamese": "Vô số; không thể đếm hết; cực kỳ nhiều",
+        "example": "She had made innumerable attempts to contact the office without success."
+    },
+    {
+        "id": 578,
+        "word": "Precarious",
+        "definition": "Not securely held; dangerously likely to fall.",
+        "vietnamese": "Bấp bênh; không ổn định; dễ sụp đổ hoặc nguy hiểm",
+        "example": "The workers balanced on a precarious scaffold several stories above the ground."
+    },
+    {
+        "id": 579,
+        "word": "Concede",
+        "definition": "To admit something is true after resisting it.",
+        "vietnamese": "Thừa nhận; chịu thua; chấp nhận sau khi phản đối",
+        "example": "After reviewing the data, the scientist was forced to concede that his hypothesis was wrong."
+    },
+    {
+        "id": 580,
+        "word": "Reprehensible",
+        "definition": "Deserving censure or condemnation.",
+        "vietnamese": "Đáng trách; đáng lên án; không thể chấp nhận về mặt đạo đức",
+        "example": "The board declared the executive's behavior reprehensible and called for his immediate resignation."
+    },
+    {
+        "id": 581,
+        "word": "Tangential",
+        "definition": "Slightly connected or diverging from the main topic.",
+        "vietnamese": "Tiếp tuyến; hơi liên quan; lệch khỏi chủ đề chính",
+        "example": "The speaker's tangential comments distracted from the main point of the lecture."
+    },
+    {
+        "id": 582,
+        "word": "Ambivalent",
+        "definition": "Having mixed feelings about something.",
+        "vietnamese": "Lưỡng lự; có cảm xúc trái chiều; không dứt khoát",
+        "example": "Many voters felt ambivalent about both candidates in the election."
+    },
+    {
+        "id": 583,
+        "word": "Vindictive",
+        "definition": "Having a strong desire for revenge.",
+        "vietnamese": "Thù hận; hay trả thù; mang lòng oán giận muốn báo thù",
+        "example": "His vindictive behavior after the breakup alarmed mutual friends."
+    },
+    {
+        "id": 584,
+        "word": "Altruistic",
+        "definition": "Showing selfless concern for others.",
+        "vietnamese": "Vị tha; quan tâm đến người khác hơn bản thân; không ích kỷ",
+        "example": "Her altruistic decision to donate her prize money to charity moved the entire audience."
+    },
+    {
+        "id": 585,
+        "word": "Innovative",
+        "definition": "Featuring new methods or ideas.",
+        "vietnamese": "Sáng tạo; đổi mới; đưa ra phương pháp hoặc ý tưởng mới",
+        "example": "The innovative design won first prize at the international engineering competition."
+    },
+    {
+        "id": 586,
+        "word": "Controversial",
+        "definition": "Giving rise to public disagreement.",
+        "vietnamese": "Gây tranh cãi; gây ra ý kiến trái chiều trong công chúng",
+        "example": "The book was controversial when it was first published but is now considered a classic."
+    },
+    {
+        "id": 587,
+        "word": "Meticulous",
+        "definition": "Showing great attention to detail.",
+        "vietnamese": "Tỉ mỉ; cẩn thận; chú ý từng chi tiết nhỏ",
+        "example": "The restoration team was meticulous in recreating every original detail of the artwork."
+    },
+    {
+        "id": 588,
+        "word": "Inquisitive",
+        "definition": "Curious; eager to learn or know.",
+        "vietnamese": "Tò mò; ham tìm hiểu; thích khám phá điều mới",
+        "example": "An inquisitive mind is a scientist's greatest asset."
+    },
+    {
+        "id": 589,
+        "word": "Pragmatism",
+        "definition": "A practical approach to problems and affairs.",
+        "vietnamese": "Chủ nghĩa thực dụng; cách tiếp cận thực tế",
+        "example": "His pragmatism allowed him to find workable solutions where others saw only obstacles."
+    },
+    {
+        "id": 590,
+        "word": "Unprecedented",
+        "definition": "Never done or known before.",
+        "vietnamese": "Chưa từng có tiền lệ; chưa từng xảy ra trước đây",
+        "example": "The athlete achieved an unprecedented fourth consecutive gold medal at the Olympics."
+    },
+    {
+        "id": 591,
+        "word": "Benign",
+        "definition": "Gentle and kindly; not harmful.",
+        "vietnamese": "Lành tính; vô hại; nhẹ nhàng và tốt bụng",
+        "example": "The doctor confirmed the tumor was benign and did not require immediate treatment."
+    },
+    {
+        "id": 592,
+        "word": "Disparate",
+        "definition": "Essentially different in kind; not able to be compared.",
+        "vietnamese": "Hoàn toàn khác nhau; không thể so sánh; khác biệt về bản chất",
+        "example": "The report attempted to unify disparate findings from dozens of independent studies."
+    },
+    {
+        "id": 593,
+        "word": "Incessant",
+        "definition": "Never ending; continuing without pause.",
+        "vietnamese": "Không ngừng nghỉ; liên tục không dứt",
+        "example": "The incessant noise from the construction site made it impossible to sleep."
+    },
+    {
+        "id": 594,
+        "word": "Pivotal",
+        "definition": "Of crucial importance in relation to the development of something.",
+        "vietnamese": "Quan trọng then chốt; mang tính bước ngoặt",
+        "example": "The invention of the printing press was pivotal in spreading literacy across Europe."
+    },
+    {
+        "id": 595,
+        "word": "Transient",
+        "definition": "Lasting only for a short time; temporary.",
+        "vietnamese": "Tạm thời; nhất thời; không tồn tại lâu",
+        "example": "The joy of revenge is transient, while the damage it causes can be permanent."
+    },
+    {
+        "id": 596,
+        "word": "Equivocate",
+        "definition": "To use ambiguous language to avoid making a commitment.",
+        "vietnamese": "Nói nước đôi; dùng ngôn ngữ mơ hồ để tránh cam kết",
+        "example": "When asked directly, the politician continued to equivocate rather than giving a clear answer."
+    },
+    {
+        "id": 597,
+        "word": "Ephemeral",
+        "definition": "Lasting for a very short time.",
+        "vietnamese": "Phù du; thoáng qua; tồn tại rất ngắn",
+        "example": "Fame can be ephemeral — today's celebrity is quickly forgotten tomorrow."
+    },
+    {
+        "id": 598,
+        "word": "Fastidious",
+        "definition": "Very attentive to accuracy and detail; difficult to please.",
+        "vietnamese": "Kỹ lưỡng; khó tính; chú ý đến từng chi tiết nhỏ nhất",
+        "example": "The fastidious editor caught errors that every other reader had missed."
+    },
+    {
+        "id": 599,
+        "word": "Scrutiny",
+        "definition": "Close, careful examination.",
+        "vietnamese": "Sự xem xét kỹ lưỡng; kiểm tra chặt chẽ",
+        "example": "The new policy underwent intense scrutiny from members of the opposition party."
+    },
+    {
+        "id": 600,
+        "word": "Wary",
+        "definition": "Feeling or showing caution about possible dangers.",
+        "vietnamese": "Cảnh giác; đề phòng; thận trọng trước nguy hiểm",
+        "example": "She was wary of making promises she might not be able to keep."
+    },
+    {
+        "id": 601,
+        "word": "Plausible",
+        "definition": "Seeming reasonable or probable.",
+        "vietnamese": "Có vẻ hợp lý; đáng tin; có thể xảy ra",
+        "example": "The detective found the suspect's alibi plausible but decided to investigate further."
+    },
+    {
+        "id": 602,
+        "word": "Bolster",
+        "definition": "To support or strengthen.",
+        "vietnamese": "Củng cố; tăng cường; hỗ trợ thêm",
+        "example": "Additional funding was approved to bolster the struggling public health system."
+    },
+    {
+        "id": 603,
+        "word": "Obsolete",
+        "definition": "No longer produced or used; out of date.",
+        "vietnamese": "Lỗi thời; không còn sử dụng; lạc hậu",
+        "example": "The rapid pace of technological change renders many skills obsolete within years."
+    },
+    {
+        "id": 604,
+        "word": "Candid",
+        "definition": "Truthful and straightforward; frank.",
+        "vietnamese": "Thẳng thắn; trung thực; bộc trực",
+        "example": "She appreciated his candid assessment of her work, even though it was difficult to hear."
+    },
+    {
+        "id": 605,
+        "word": "Articulate",
+        "definition": "Having or showing the ability to speak fluently and coherently.",
+        "vietnamese": "Diễn đạt rõ ràng; nói lưu loát; mạch lạc",
+        "example": "The articulate spokesperson was able to explain the complex policy in simple terms."
+    },
+    {
+        "id": 606,
+        "word": "Exemplary",
+        "definition": "Serving as a desirable model; representing the best of its kind.",
+        "vietnamese": "Gương mẫu; mẫu mực; tiêu biểu đáng noi theo",
+        "example": "Her exemplary conduct throughout the investigation set a high standard for others."
+    },
+    {
+        "id": 607,
+        "word": "Apprehensive",
+        "definition": "Anxious or fearful that something bad will happen.",
+        "vietnamese": "Lo lắng; e ngại; lo sợ điều xấu sắp xảy ra",
+        "example": "She was apprehensive about the surgery despite the doctor's reassurances."
+    },
+    {
+        "id": 608,
+        "word": "Auspicious",
+        "definition": "Giving a favorable sign of future success.",
+        "vietnamese": "Tốt lành; hứa hẹn; mang điềm tốt cho tương lai",
+        "example": "Winning their first match was an auspicious start to the tournament for the young team."
+    },
+    {
+        "id": 609,
+        "word": "Apathetic",
+        "definition": "Showing or feeling no interest, enthusiasm, or concern.",
+        "vietnamese": "Thờ ơ; không quan tâm; thiếu nhiệt tình",
+        "example": "An apathetic electorate leads to low voter turnout and weakened democracy."
+    },
+    {
+        "id": 610,
+        "word": "Inconsequential",
+        "definition": "Not important or significant.",
+        "vietnamese": "Không quan trọng; không đáng kể; tầm thường",
+        "example": "The minor formatting errors were inconsequential to the overall quality of the report."
+    },
+    {
+        "id": 611,
+        "word": "Tenacious",
+        "definition": "Holding fast; persistent; not easily giving up.",
+        "vietnamese": "Kiên cường; bền bỉ; không dễ bỏ cuộc",
+        "example": "The tenacious investigative journalist spent five years exposing the corruption case."
+    },
+    {
+        "id": 612,
+        "word": "Diverge",
+        "definition": "To go in different directions from a common point.",
+        "vietnamese": "Phân kỳ; đi theo hướng khác nhau; tách ra",
+        "example": "Their opinions began to diverge sharply after the policy debate."
+    },
+    {
+        "id": 613,
+        "word": "Elucidate",
+        "definition": "To make something clear; to explain.",
+        "vietnamese": "Làm sáng tỏ; giải thích rõ ràng; thuyết minh",
+        "example": "The professor elucidated the complex theory using a series of practical examples."
+    },
+    {
+        "id": 614,
+        "word": "Inadvertent",
+        "definition": "Not resulting from deliberate planning; accidental.",
+        "vietnamese": "Vô tình; không cố ý; xảy ra do sơ ý",
+        "example": "The inadvertent release of sensitive data caused a major public relations crisis."
+    },
+    {
+        "id": 615,
+        "word": "Lament",
+        "definition": "To express grief, regret, or sorrow.",
+        "vietnamese": "Than thở; ai oán; bày tỏ nỗi đau buồn hoặc hối tiếc",
+        "example": "She lamented the loss of the ancient library, calling it an irreplaceable cultural tragedy."
+    },
+    {
+        "id": 616,
+        "word": "Nascent",
+        "definition": "Just beginning to exist or develop.",
+        "vietnamese": "Mới nảy sinh; đang hình thành; ở giai đoạn đầu phát triển",
+        "example": "The nascent technology shows great promise but is not yet ready for commercial use."
+    },
+    {
+        "id": 617,
+        "word": "Obliterate",
+        "definition": "To destroy utterly; to wipe out completely.",
+        "vietnamese": "Xóa sạch; phá hủy hoàn toàn; tiêu diệt triệt để",
+        "example": "The hurricane obliterated entire neighborhoods, leaving nothing but rubble."
+    },
+    {
+        "id": 618,
+        "word": "Paradox",
+        "definition": "A statement or situation that contradicts itself but may be true.",
+        "vietnamese": "Nghịch lý; điều tự mâu thuẫn nhưng có thể đúng",
+        "example": "The paradox of freedom is that it requires responsibility to function properly."
+    },
+    {
+        "id": 619,
+        "word": "Querulous",
+        "definition": "Complaining in a petulant or whining manner.",
+        "vietnamese": "Hay phàn nàn; lằng nhằng; thường xuyên ca thán",
+        "example": "The querulous customer demanded to speak with a manager over a minor inconvenience."
+    },
+    {
+        "id": 620,
+        "word": "Redress",
+        "definition": "To remedy or set right; compensation for a wrong.",
+        "vietnamese": "Bồi thường; khắc phục; sửa chữa sai lầm",
+        "example": "Citizens sought legal redress after the government's policies damaged their livelihoods."
+    },
+    {
+        "id": 621,
+        "word": "Succinct",
+        "definition": "Briefly and clearly expressed.",
+        "vietnamese": "Súc tích; ngắn gọn mà đầy đủ ý nghĩa",
+        "example": "His succinct summary captured all the key points in just three sentences."
+    },
+    {
+        "id": 622,
+        "word": "Tenuous",
+        "definition": "Thin, weak, or insubstantial.",
+        "vietnamese": "Mong manh; yếu ớt; không chắc chắn",
+        "example": "The tenuous evidence was insufficient to justify an arrest."
+    },
+    {
+        "id": 623,
+        "word": "Undermine",
+        "definition": "To damage or weaken something gradually.",
+        "vietnamese": "Phá hoại ngầm; làm suy yếu dần dần",
+        "example": "Constant criticism from leadership can undermine employees' confidence and productivity."
+    },
+    {
+        "id": 624,
+        "word": "Verbose",
+        "definition": "Using more words than necessary; wordy.",
+        "vietnamese": "Dài dòng; nhiều lời; dùng nhiều từ hơn cần thiết",
+        "example": "The verbose contract was condensed from 80 pages to a clearer 20-page document."
+    },
+    {
+        "id": 625,
+        "word": "Zealous",
+        "definition": "Having or showing great energy or enthusiasm.",
+        "vietnamese": "Nhiệt thành; hăng hái; đầy nhiệt huyết",
+        "example": "The zealous volunteer worked 12-hour days to ensure the campaign's success."
+    },
+    {
+        "id": 626,
+        "word": "Anomaly",
+        "definition": "Something different from what is normal or expected.",
+        "vietnamese": "Sự bất thường; điều không phù hợp với quy luật chung",
+        "example": "The unusually high test scores were flagged as an anomaly requiring further investigation."
+    },
+    {
+        "id": 627,
+        "word": "Circumspect",
+        "definition": "Wary and unwilling to take risks.",
+        "vietnamese": "Thận trọng; cẩn thận; không muốn mạo hiểm",
+        "example": "She was circumspect in her investment decisions, always researching thoroughly before committing."
+    },
+    {
+        "id": 628,
+        "word": "Denounce",
+        "definition": "To publicly declare to be wrong or evil.",
+        "vietnamese": "Tố cáo; lên án công khai; tuyên bố điều gì đó là sai hoặc có hại",
+        "example": "World leaders unanimously denounced the attack as an act of terror."
+    },
+    {
+        "id": 629,
+        "word": "Elusive",
+        "definition": "Difficult to find, catch, or achieve.",
+        "vietnamese": "Khó nắm bắt; khó đạt được; né tránh khéo léo",
+        "example": "Despite decades of research, a cure for the common cold remains elusive."
+    },
+    {
+        "id": 630,
+        "word": "Frugal",
+        "definition": "Sparing or economical with money or food.",
+        "vietnamese": "Tiết kiệm; dè xẻn; sử dụng tiền bạc hoặc tài nguyên một cách căn cơ",
+        "example": "Living a frugal lifestyle allowed her to retire comfortably at age fifty."
+    },
+    {
+        "id": 631,
+        "word": "Gratuitous",
+        "definition": "Uncalled for; lacking good reason; unwarranted.",
+        "vietnamese": "Không cần thiết; không có lý do chính đáng; thừa thãi",
+        "example": "Critics objected to the film's gratuitous violence, which added nothing to the story."
+    },
+    {
+        "id": 632,
+        "word": "Heed",
+        "definition": "To pay attention to; to take notice of as a warning.",
+        "vietnamese": "Chú ý; lắng nghe cảnh báo; để tâm đến lời khuyên",
+        "example": "If only he had heeded the warning signs, the accident could have been avoided."
+    },
+    {
+        "id": 633,
+        "word": "Indignation",
+        "definition": "Anger or annoyance provoked by what is perceived as unfair.",
+        "vietnamese": "Sự phẫn nộ; tức giận vì điều bất công",
+        "example": "Public indignation over the verdict led to large protests across the country."
+    },
+    {
+        "id": 634,
+        "word": "Judicious",
+        "definition": "Having, showing, or done with good judgment.",
+        "vietnamese": "Sáng suốt; có phán đoán tốt; thận trọng và khôn ngoan",
+        "example": "A judicious allocation of resources helped the nonprofit survive the economic downturn."
+    },
+    {
+        "id": 635,
+        "word": "Kowtow",
+        "definition": "To act in an excessively submissive way.",
+        "vietnamese": "Khúm núm; khuất phục thái quá; nịnh hót",
+        "example": "He refused to kowtow to pressure from wealthy donors and maintained his independent position."
+    },
+    {
+        "id": 636,
+        "word": "Laconic",
+        "definition": "Using very few words.",
+        "vietnamese": "Nói ít; ngắn gọn cô đọng; kiệm lời",
+        "example": "His laconic reply of 'fine' told her nothing about what had really happened."
+    },
+    {
+        "id": 637,
+        "word": "Malign",
+        "definition": "To speak about in a spitefully critical manner.",
+        "vietnamese": "Nói xấu; phỉ báng; chỉ trích một cách ác ý",
+        "example": "It is unfair to malign someone based on rumors without verifying the facts."
+    },
+    {
+        "id": 638,
+        "word": "Nefarious",
+        "definition": "Wicked or criminal.",
+        "vietnamese": "Gian ác; tội lỗi; cực kỳ xấu xa về mặt đạo đức",
+        "example": "The investigation uncovered the organization's nefarious financial dealings."
+    },
+    {
+        "id": 639,
+        "word": "Oblique",
+        "definition": "Not straightforward; indirect.",
+        "vietnamese": "Gián tiếp; không thẳng thắn; ẩn ý",
+        "example": "His oblique references to the scandal made it clear he knew more than he was saying."
+    },
+    {
+        "id": 640,
+        "word": "Perennial",
+        "definition": "Lasting or existing for a long or apparently infinite time.",
+        "vietnamese": "Lâu dài; tồn tại mãi mãi; năm nào cũng xuất hiện",
+        "example": "Traffic congestion remains a perennial problem in the world's largest cities."
+    },
+    {
+        "id": 641,
+        "word": "Quandary",
+        "definition": "A state of perplexity or uncertainty.",
+        "vietnamese": "Tình huống khó xử; lưỡng lự; không biết phải làm gì",
+        "example": "She found herself in a quandary when both job offers arrived on the same day."
+    },
+    {
+        "id": 642,
+        "word": "Replete",
+        "definition": "Filled or well-supplied with something.",
+        "vietnamese": "Đầy ắp; dư dả; sung mãn",
+        "example": "The library was replete with rare manuscripts and first-edition volumes."
+    },
+    {
+        "id": 643,
+        "word": "Sagacious",
+        "definition": "Having or showing keen mental discernment and good judgment.",
+        "vietnamese": "Sáng suốt; khôn ngoan; có khả năng phán đoán sắc bén",
+        "example": "The sagacious investor saw the market downturn coming months before it happened."
+    },
+    {
+        "id": 644,
+        "word": "Taciturn",
+        "definition": "Reserved or uncommunicative in speech; saying little.",
+        "vietnamese": "Ít nói; trầm lặng; không thích bộc lộ",
+        "example": "The taciturn professor spoke only when he had something truly important to say."
+    },
+    {
+        "id": 645,
+        "word": "Ubiquity",
+        "definition": "The fact of appearing everywhere.",
+        "vietnamese": "Sự hiện diện khắp nơi; tình trạng phổ biến toàn diện",
+        "example": "The ubiquity of smartphones has transformed how people communicate and access information."
+    },
+    {
+        "id": 646,
+        "word": "Vacuous",
+        "definition": "Having or showing a lack of thought or intelligence.",
+        "vietnamese": "Trống rỗng về trí tuệ; nhạt nhẽo; thiếu chiều sâu suy nghĩ",
+        "example": "The vacuous celebrity interview contained nothing of substance or interest."
+    },
+    {
+        "id": 647,
+        "word": "Wistful",
+        "definition": "Having or showing a feeling of vague longing or regret.",
+        "vietnamese": "Bâng khuâng; man mác; mang nỗi nhớ hoặc tiếc nuối mơ hồ",
+        "example": "She gazed wistfully at old photographs, remembering simpler times."
+    },
+    {
+        "id": 648,
+        "word": "Xenophobia",
+        "definition": "Dislike of or prejudice against people from other countries.",
+        "vietnamese": "Bài ngoại; thù ghét hoặc kỳ thị người nước ngoài",
+        "example": "Rising xenophobia in the region has made it harder for refugees to find safe haven."
+    },
+    {
+        "id": 649,
+        "word": "Yield",
+        "definition": "To give way or produce a result.",
+        "vietnamese": "Nhường bộ; sản sinh; tạo ra kết quả",
+        "example": "Years of patient research finally yielded a breakthrough in cancer treatment."
+    },
+    {
+        "id": 650,
+        "word": "Zeal",
+        "definition": "Great energy or enthusiasm for a cause.",
+        "vietnamese": "Sự nhiệt tình; hăng hái; niềm đam mê cho một mục tiêu",
+        "example": "The volunteers worked with remarkable zeal to rebuild homes after the disaster."
+    }
+]
